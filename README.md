@@ -1,6 +1,6 @@
 # GitHub 全仓库流量档案
 
-自动发现令牌可见的本人全部 GitHub 仓库，每天归档 GitHub 只保留 14 天的流量数据，并通过 GitHub Pages 提供可筛选、可排序的全量表格。
+自动发现令牌可见的本人全部 GitHub 仓库，每天归档 GitHub 只保留 14 天的流量数据，并在仓库中保存可筛选、可排序的全量表格。
 
 本项目基于 [piebro/github-repo-traffic-stats](https://github.com/piebro/github-repo-traffic-stats) 重构。
 
@@ -48,11 +48,15 @@ GH_TRAFFIC_TOKEN=<你的令牌>
 
 在 `Settings → Actions → General → Workflow permissions` 选择 `Read and write permissions`。
 
-### 4. 运行采集
+### 4. 运行采集和查看表格
 
-先手动运行一次 `Collect GitHub traffic`，确认权限和令牌正确；之后采集任务每天 UTC 23:23 自动运行，数据会提交回 private 仓库。
+先手动运行一次 `Collect GitHub traffic`，确认权限和令牌正确；之后采集任务每天 UTC 23:23 自动运行，数据会提交回 private 仓库。下载或克隆仓库后，在项目根目录运行：
 
-`Deploy dashboard to GitHub Pages` 工作流保留为手动触发。GitHub Free 当前不支持 private 仓库 Pages；如果直接在本项目启用会收到 `Your current plan does not support GitHub Pages for this repository`。只有升级到支持 private Pages 的套餐/组织，或确认所有数据均可公开后将仓库改为 public，才应在 `Settings → Pages` 选择 GitHub Actions 并运行它。
+```bash
+python -m http.server 8000
+```
+
+然后访问 <http://localhost:8000>。当前仓库不包含 Pages 部署工作流，因为 GitHub Free 不支持 private 仓库 Pages；这也避免 `configure-pages` 因找不到 Pages site 而失败。
 
 ## 隐私提醒
 
