@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-07-20T03:43:43Z",
+  "generated_at": "2026-07-20T03:57:47Z",
   "repository_count": 44,
   "repositories": [
     {
@@ -110,24 +110,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 6,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 5,
+          "uniques": 4
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/1944.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1235283677,
@@ -235,24 +230,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/add_watermark.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1243091995,
@@ -360,24 +350,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/arcadia-etf-three-factor.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1276742051,
@@ -485,24 +470,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 4,
+          "uniques": 4
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/AutoReply.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1250796961,
@@ -610,24 +590,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/baba-farm-arcadia-runner.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 48361485,
@@ -735,24 +710,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Batch.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1301348126,
@@ -860,24 +830,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 13,
+          "uniques": 13
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 13,
+          "uniques": 13
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/ceic-award-monitor.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1283473272,
@@ -985,24 +950,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 77,
+          "uniques": 53
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 59,
+          "uniques": 40
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/ClassSchedule.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1251892959,
@@ -1110,24 +1070,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/concept-fund-allocator.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1252909494,
@@ -1237,24 +1192,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 6,
+          "uniques": 6
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 5,
+          "uniques": 5
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/cpp-exam-generator.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1281105616,
@@ -1362,24 +1312,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 19,
+          "uniques": 14
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 19,
+          "uniques": 14
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/csp-registration.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1261042515,
@@ -1479,32 +1424,40 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/ctrip-flight-monitor",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/ctrip-flight-monitor.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1258136633,
@@ -1613,24 +1566,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/DietaryNutrition.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 44355012,
@@ -1738,24 +1686,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/dotfiles.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1250807816,
@@ -1863,24 +1806,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/FreeMeal.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1245488952,
@@ -1988,24 +1926,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/fund.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1288110235,
@@ -2106,32 +2039,40 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 2
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 18,
+          "uniques": 17
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 18,
+          "uniques": 17
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/gaokao-zhenti",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/gaokao-zhenti/blob/main/requirements.txt",
+            "title": "/blob/main/requirements.txt",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/gaokao-zhenti.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1301375185,
@@ -2237,24 +2178,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 28,
+          "uniques": 24
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 28,
+          "uniques": 24
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/gaokaomath-archive.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1306154237,
@@ -2275,8 +2211,8 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-07-20T03:40:17Z",
-      "pushed_at": "2026-07-20T03:37:11Z",
+      "updated_at": "2026-07-20T03:56:55Z",
+      "pushed_at": "2026-07-20T03:56:51Z",
       "size_kb": 19,
       "stars": 0,
       "forks": 0,
@@ -2347,7 +2283,7 @@
       ],
       "community_health_percentage": 28,
       "counts": {
-        "contributors": 1,
+        "contributors": 2,
         "branches": 1,
         "tags": 0,
         "releases": 0,
@@ -2370,17 +2306,12 @@
           "count": 0,
           "uniques": 0
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/github-repo-traffic.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1253131001,
@@ -2488,24 +2419,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/gold-008143-monitor.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1277017426,
@@ -2611,24 +2537,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 4,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 4,
+          "uniques": 4
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Herobrine-Mirror-Monster-Release.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1246513957,
@@ -2728,32 +2649,46 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/hybgzs-wheel-spin/issues",
+            "title": "/issues",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/hybgzs-wheel-spin",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 3,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/hybgzs-wheel-spin.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1249021636,
@@ -2861,24 +2796,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/imgur-redirect-userscript.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 430641161,
@@ -2979,32 +2909,40 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/JavaScript/activity",
+            "title": "/activity",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/JavaScript/pulse",
+            "title": "/pulse",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/JavaScript.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1256879653,
@@ -3104,32 +3042,40 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 5,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 4,
+          "uniques": 3
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/LimbusCompany-IOS-Localization",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/LimbusCompany-IOS-Localization.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1264567101,
@@ -3239,24 +3185,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/music163.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1237216865,
@@ -3366,24 +3307,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 22,
+          "uniques": 17
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 6,
+          "uniques": 6
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/neater-bookmarks.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1244492062,
@@ -3491,24 +3427,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 12,
+          "uniques": 12
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 11,
+          "uniques": 11
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/newapi-checkin-js.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1284548379,
@@ -3616,24 +3547,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 11,
+          "uniques": 10
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 8,
+          "uniques": 7
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/ninebot.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1284853767,
@@ -3733,32 +3659,40 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 10,
+          "uniques": 10
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 7,
+          "uniques": 7
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/nodeseek",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/nodeseek.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1265958639,
@@ -3866,24 +3800,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/PlayMusic.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1253252613,
@@ -3998,24 +3927,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Project-Alice-macos-intel.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 859753074,
@@ -4124,24 +4048,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Python.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1249728749,
@@ -4249,24 +4168,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/qdii.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1283477561,
@@ -4374,24 +4288,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 8,
+          "uniques": 8
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 7,
+          "uniques": 7
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/quark.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1259890638,
@@ -4499,24 +4408,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 3,
+          "uniques": 3
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/random-username-from-behindthename.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1251028049,
@@ -4624,24 +4528,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/SendFile.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1250865210,
@@ -4749,24 +4648,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 7,
+          "uniques": 7
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 6,
+          "uniques": 6
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/taobao-task-mobile-runner-starter.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1247147522,
@@ -4874,24 +4768,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/tianyiyun-signin.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 44795196,
@@ -4991,32 +4880,34 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
-        "latest_popular_paths": [],
+        "first_archived_date": "2026-07-05",
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/Tour/forks",
+            "title": "/forks",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Tour.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 45226362,
@@ -5124,24 +5015,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
           "count": 0,
           "uniques": 0
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-06-30",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/TourProject.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1252174423,
@@ -5251,24 +5137,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/us-market-close-daily.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1254804949,
@@ -5376,24 +5257,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 8,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 8,
+          "uniques": 4
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/water-monster-mod.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     },
     {
       "id": 1241138143,
@@ -5503,24 +5379,19 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
-        "first_archived_date": null,
+        "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/wechat-fujian-theatre-monitor.json",
-      "collection_errors": [
-        "traffic views: HTTP 403",
-        "traffic clones: HTTP 403",
-        "popular paths: HTTP 403",
-        "popular referrers: HTTP 403"
-      ]
+      "collection_errors": []
     }
   ]
 }
