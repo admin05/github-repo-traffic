@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Data and previews bundled with the upstream demo are intentionally excluded.
+data/github_clones/
+data/github_paths/
+data/github_referrers/
+data/github_views/
+preview_plots/
+dashboard_screenshot.png
+github_username.txt

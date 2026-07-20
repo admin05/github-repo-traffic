@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>GitHub 全仓库流量表</title>
+  <style>
+    :root {
+      --bg: #f6f8fa; --surface: #fff; --text: #1f2328; --muted: #656d76;
+      --border: #d0d7de; --accent: #0969da; --accent-soft: #ddf4ff;
+      --warning: #9a6700; --shadow: 0 1px 3px rgba(31,35,40,.08);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --surface:#161b22; --text:#e6edf3; --muted:#8b949e;
+        --border:#30363d; --accent:#58a6ff; --accent-soft:#0c2d4a; --warning:#d29922; --shadow:none; }
+    }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    a { color:var(--accent); text-decoration:none; } a:hover { text-decoration:underline; }
+    button,input,select { font:inherit; }
+    button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+    .shell { max-width:1800px; margin:0 auto; padding:24px; }
+    header { display:flex; justify-content:space-between; align-items:flex-end; gap:18px; margin-bottom:20px; }
+    h1 { margin:0 0 4px; font-size:clamp(24px,4vw,36px); line-height:1.2; }
+    h2 { margin:0 0 12px; font-size:20px; }
+    .muted { color:var(--muted); } .small { font-size:12px; }
+    .status { text-align:right; }
+    .summary { display:flex; flex-wrap:wrap; gap:8px 20px; margin:0 0 16px; color:var(--muted); }
+    .summary strong { color:var(--text); font-variant-numeric:tabular-nums; }
+    .controls { display:grid; grid-template-columns:minmax(240px,2fr) repeat(3,minmax(140px,1fr)); gap:10px; margin-bottom:14px; }
+    label { display:grid; gap:4px; color:var(--muted); font-size:12px; }
+    input,select { width:100%; min-height:36px; padding:6px 9px; color:var(--text); background:var(--surface); border:1px solid var(--border); border-radius:6px; }
+    .table-panel { overflow:hidden; background:var(--surface); border:1px solid var(--border); border-radius:8px; box-shadow:var(--shadow); }
+    .table-heading { display:flex; justify-content:space-between; gap:12px; align-items:baseline; padding:16px 16px 4px; }
+    .table-wrap { overflow:auto; max-height:calc(100vh - 240px); }
+    table { width:100%; min-width:2450px; border-collapse:separate; border-spacing:0; }
+    th,td { padding:9px 10px; border-bottom:1px solid var(--border); text-align:left; vertical-align:top; white-space:nowrap; }
+    th { position:sticky; top:0; z-index:2; color:var(--muted); background:var(--surface); font-size:12px; font-weight:600; }
+    th button { display:inline-flex; align-items:center; gap:4px; padding:0; color:inherit; background:none; border:0; cursor:pointer; font-weight:600; white-space:nowrap; }
+    th button:hover { color:var(--accent); }
+    th.sorted button { color:var(--accent); }
+    tbody tr:hover { background:var(--accent-soft); }
+    tbody tr:last-child td { border-bottom:0; }
+    .numeric { text-align:right; font-variant-numeric:tabular-nums; }
+    .repo { position:sticky; left:0; z-index:1; min-width:260px; max-width:360px; white-space:normal; background:var(--surface); }
+    tbody tr:hover .repo { background:var(--accent-soft); }
+    .repo a { font-weight:600; }
+    .description { max-width:340px; margin-top:2px; color:var(--muted); font-size:12px; overflow:hidden; text-overflow:ellipsis; }
+    .badge { display:inline-block; margin:0 3px 2px 0; padding:1px 6px; color:var(--muted); border:1px solid var(--border); border-radius:999px; font-size:11px; }
+    .cell-list { max-width:320px; white-space:normal; overflow-wrap:anywhere; }
+    .error { color:var(--warning); cursor:help; }
+    .empty { padding:48px 20px; color:var(--muted); text-align:center; }
+    footer { padding:14px 0 20px; color:var(--muted); text-align:center; }
+    @media (max-width:800px) { .shell{padding:14px;} header{display:block;} .status{text-align:left;margin-top:8px;} .controls{grid-template-columns:1fr 1fr;} .table-wrap{max-height:none;} }
+    @media (max-width:520px) { .controls{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <h1><span id="ownerName">GitHub</span> 全仓库流量表</h1>
+        <div class="muted">所有仓库一行一条记录；点击任意表头即可升序/降序排列</div>
+      </div>
+      <div class="status small muted" id="status">正在加载数据…</div>
+    </header>
+    <div class="summary" aria-label="总计">
+      <span>仓库 <strong id="repoCount">—</strong></span>
+      <span>累计浏览 <strong id="totalViews">—</strong></span>
+      <span>累计克隆 <strong id="totalClones">—</strong></span>
+      <span>Stars <strong id="totalStars">—</strong></span>
+      <span>当前筛选 <strong id="filteredCount">—</strong></span>
+    </div>
+    <div class="controls" aria-label="筛选条件">
+      <label>搜索（名称、描述、语言、主题）<input id="search" type="search" placeholder="输入关键词"></label>
+      <label>可见性<select id="visibility"><option value="all">全部</option><option value="public">Public</option><option value="private">Private</option></select></label>
+      <label>状态<select id="state"><option value="all">全部</option><option value="active">活跃</option><option value="archived">已归档</option><option value="fork">Fork</option></select></label>
+      <label>默认排序<select id="defaultSort"><option value="views14">近 14 天浏览</option><option value="name">名称</option><option value="stars">Stars</option></select></label>
+    </div>
+    <section class="table-panel" aria-labelledby="tableTitle">
+      <div class="table-heading"><h2 id="tableTitle">仓库数据</h2><span class="small muted">横向滚动查看全部列；“累计”从首次采集开始</span></div>
+      <div class="table-wrap">
+        <table id="repoTable">
+          <thead><tr id="headRow"></tr></thead>
+          <tbody id="bodyRows"></tbody>
+        </table>
+        <div id="empty" class="empty" hidden></div>
+      </div>
+    </section>
+    <footer>原始逐日流量与快照保存在每个仓库的 JSON 文件中；表格汇总不会覆盖历史。</footer>
+  </main>
+  <script>
+    const state = { summary:null, sort:'views14', direction:-1 };
+    const number = new Intl.NumberFormat('zh-CN');
+    const date = new Intl.DateTimeFormat('zh-CN',{year:'numeric',month:'short',day:'numeric'});
+    const $ = (id) => document.getElementById(id);
+    const esc = (value) => String(value ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
+    const fmt = (value) => number.format(Number(value || 0));
+    const fmtDate = (value) => value ? date.format(new Date(value)) : '—';
+    const pct = (value) => value == null ? '—' : `${Number(value).toFixed(1)}%`;
+    const sum = (repo,path) => path.reduce((node,key)=>node?.[key],repo) || 0;
+    const compact = (items) => (items || []).map((item) => `${item.path ?? item.referrer ?? ''} (${fmt(item.count)}/${fmt(item.uniques)})`).join(' · ') || '—';
+
+    const columns = [
+      {key:'name',label:'仓库',text:true},
+      {key:'visibility',label:'可见性',text:true},
+      {key:'archived',label:'归档'}, {key:'fork',label:'Fork'},
+      {key:'language',label:'主要语言',text:true}, {key:'topics',label:'Topics',text:true},
+      {key:'license',label:'许可证',text:true}, {key:'stars',label:'Stars'}, {key:'forks',label:'Forks'},
+      {key:'watchers',label:'Watchers'}, {key:'openIssues',label:'开放 Issues'}, {key:'openPulls',label:'开放 PR'},
+      {key:'contributors',label:'Contributors'}, {key:'branches',label:'Branches'}, {key:'tags',label:'Tags'}, {key:'releases',label:'Releases'},
+      {key:'health',label:'社区健康度'}, {key:'size',label:'大小 KB'},
+      {key:'viewsAll',label:'浏览累计'}, {key:'viewsUniqueAll',label:'独立浏览累计'}, {key:'views14',label:'浏览近 14 天'}, {key:'viewsUnique14',label:'独立浏览近 14 天'},
+      {key:'clonesAll',label:'克隆累计'}, {key:'clonesUniqueAll',label:'独立克隆累计'}, {key:'clones14',label:'克隆近 14 天'}, {key:'clonesUnique14',label:'独立克隆近 14 天'},
+      {key:'archiveSince',label:'归档起始',text:true}, {key:'pushed',label:'最后推送'},
+      {key:'languages',label:'语言明细',text:true}, {key:'paths',label:'热门路径（浏览/独立）',text:true}, {key:'referrers',label:'热门来源（浏览/独立）',text:true},
+      {key:'participation',label:'52 周提交'}, {key:'errors',label:'采集提示',text:true}, {key:'raw',label:'原始数据',text:true}
+    ];
+
+    function value(repo,key) {
+      const traffic = repo.traffic || {}, counts = repo.counts || {};
+      const openPulls = counts.open_pull_requests == null ? null : Number(counts.open_pull_requests);
+      const map = {
+        name:repo.name, visibility:repo.visibility, archived:repo.archived ? 1 : 0, fork:repo.fork ? 1 : 0,
+        language:repo.language || '', topics:(repo.topics || []).join(', '), license:repo.license || '', stars:repo.stars,
+        forks:repo.forks, watchers:repo.watchers, openIssues:Math.max(0,Number(repo.open_issues_and_pulls || 0)-(openPulls || 0)),
+        openPulls:openPulls ?? -1, contributors:counts.contributors ?? -1, branches:counts.branches ?? -1, tags:counts.tags ?? -1, releases:counts.releases ?? -1,
+        health:repo.community_health_percentage ?? -1, size:repo.size_kb, viewsAll:sum(repo,['traffic','views_all_time','count']), viewsUniqueAll:sum(repo,['traffic','views_all_time','uniques']),
+        views14:sum(repo,['traffic','views_14d','count']), viewsUnique14:sum(repo,['traffic','views_14d','uniques']), clonesAll:sum(repo,['traffic','clones_all_time','count']),
+        clonesUniqueAll:sum(repo,['traffic','clones_all_time','uniques']), clones14:sum(repo,['traffic','clones_14d','count']), clonesUnique14:sum(repo,['traffic','clones_14d','uniques']),
+        archiveSince:repo.traffic?.first_archived_date || '', pushed:Date.parse(repo.pushed_at || 0), languages:Object.entries(repo.languages || {}).map(([k,v])=>`${k}: ${fmt(v)}`).join(', '),
+        paths:compact(repo.traffic?.latest_popular_paths), referrers:compact(repo.traffic?.latest_popular_referrers), participation:(repo.participation_52_weeks || []).reduce((a,b)=>a+Number(b||0),0),
+        errors:(repo.collection_errors || []).join(' | '), raw:repo.data_file || ''
+      };
+      return map[key];
+    }
+
+    function cell(repo,column) {
+      const raw = value(repo,column.key);
+      if (column.key === 'name') return `<a href="${esc(repo.html_url)}" target="_blank" rel="noreferrer">${esc(repo.name)}</a><div class="description">${esc(repo.description || '')}</div>`;
+      if (column.key === 'raw') return repo.data_file ? `<a href="${esc(repo.data_file)}" target="_blank" rel="noreferrer">JSON</a>` : '—';
+      if (column.key === 'errors') return raw ? `<span class="error" title="${esc(raw)}">部分失败 (${(repo.collection_errors || []).length})</span>` : '—';
+      if (column.key === 'archived' || column.key === 'fork') return raw ? '是' : '否';
+      if (column.key === 'health') return raw < 0 ? '—' : pct(raw);
+      if (column.key === 'pushed') return raw ? fmtDate(repo.pushed_at) : '—';
+      if (column.key === 'archiveSince') return raw || '—';
+      if (column.text) return `<span class="cell-list">${esc(raw || '—')}</span>`;
+      return fmt(raw);
+    }
+
+    function renderHead() {
+      $('headRow').innerHTML = columns.map((column) => `<th class="${state.sort === column.key ? 'sorted' : ''}"><button type="button" data-sort="${column.key}">${esc(column.label)} ${state.sort === column.key ? (state.direction > 0 ? '↑' : '↓') : '↕'}</button></th>`).join('');
+      document.querySelectorAll('[data-sort]').forEach((button) => button.addEventListener('click', () => {
+        const key = button.dataset.sort;
+        if (state.sort === key) state.direction *= -1; else { state.sort = key; state.direction = key === 'name' ? 1 : -1; }
+        render();
+      }));
+    }
+
+    function filtered() {
+      const query = $('search').value.trim().toLowerCase(), visibility = $('visibility').value, status = $('state').value;
+      const repos = state.summary.repositories.filter((repo) => {
+        const text = [repo.name,repo.description,repo.language,...(repo.topics||[])].join(' ').toLowerCase();
+        return (!query || text.includes(query)) && (visibility === 'all' || repo.visibility === visibility) &&
+          (status === 'all' || (status === 'active' && !repo.archived && !repo.fork) || (status === 'archived' && repo.archived) || (status === 'fork' && repo.fork));
+      });
+      repos.sort((a,b) => {
+        const av=value(a,state.sort), bv=value(b,state.sort);
+        if (typeof av === 'string' || typeof bv === 'string') return String(av).localeCompare(String(bv), 'zh-CN') * state.direction;
+        return (Number(av||0)-Number(bv||0)) * state.direction || a.name.localeCompare(b.name);
+      });
+      return repos;
+    }
+
+    function render() {
+      renderHead();
+      const repos = filtered();
+      $('filteredCount').textContent = `${repos.length}/${state.summary.repositories.length}`;
+      $('bodyRows').innerHTML = repos.map((repo) => `<tr>${columns.map((column,index)=>`<td class="${index === 0 ? 'repo' : ''} ${column.key.includes('views') || column.key.includes('clones') || ['stars','forks','watchers','openIssues','openPulls','contributors','branches','tags','releases','health','size','participation'].includes(column.key) ? 'numeric' : ''}">${cell(repo,column)}</td>`).join('')}</tr>`).join('');
+      $('empty').hidden = repos.length !== 0;
+      $('empty').textContent = state.summary.repositories.length ? '没有符合筛选条件的仓库。' : '还没有数据，请先运行 Collect GitHub traffic。';
+    }
+
+    async function init() {
+      try {
+        state.summary = await (await fetch('data/dashboard.json',{cache:'no-store'})).json();
+        $('ownerName').textContent = state.summary.owner || 'GitHub';
+        document.title = `${state.summary.owner || 'GitHub'} · 全仓库流量表`;
+        $('status').textContent = state.summary.generated_at ? `最后采集：${new Date(state.summary.generated_at).toLocaleString('zh-CN')}` : '尚未执行首次采集';
+        const repos = state.summary.repositories || [];
+        $('repoCount').textContent = fmt(repos.length);
+        $('totalViews').textContent = fmt(repos.reduce((n,r)=>n+          +sum(r,['traffic','views_all_time','count']),0));
+        $('totalClones').textContent = fmt(repos.reduce((n,r)=>n+          +sum(r,['traffic','clones_all_time','count']),0));
+        $('totalStars').textContent = fmt(repos.reduce((n,r)=>n+Number(r.stars||0),0));
+        render();
+      } catch (error) {
+        $('status').textContent = '数据加载失败'; $('empty').hidden = false; $('empty').textContent = `无法读取 data/dashboard.json：${error.message}`;
+      }
+    }
+    $('defaultSort').addEventListener('change', () => { state.sort = $('defaultSort').value; state.direction = state.sort === 'name' ? 1 : -1; render(); });
+    ['search','visibility','state'].forEach((id) => $(id).addEventListener(id === 'search' ? 'input' : 'change', render));
+    init();
+  </script>
+</body>
+</html>
