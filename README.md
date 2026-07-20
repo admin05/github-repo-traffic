@@ -48,18 +48,15 @@ GH_TRAFFIC_TOKEN=<你的令牌>
 
 在 `Settings → Actions → General → Workflow permissions` 选择 `Read and write permissions`。
 
-### 4. 启用 Pages
+### 4. 运行采集
 
-在 `Settings → Pages → Build and deployment` 中把 Source 设为 `GitHub Actions`，然后手动运行一次：
+先手动运行一次 `Collect GitHub traffic`，确认权限和令牌正确；之后采集任务每天 UTC 23:23 自动运行，数据会提交回 private 仓库。
 
-- `Collect GitHub traffic`
-- `Deploy dashboard to GitHub Pages`
-
-之后采集任务每天 UTC 23:23 自动运行。数据提交后会自动重新部署页面。
+`Deploy dashboard to GitHub Pages` 工作流保留为手动触发。GitHub Free 当前不支持 private 仓库 Pages；如果直接在本项目启用会收到 `Your current plan does not support GitHub Pages for this repository`。只有升级到支持 private Pages 的套餐/组织，或确认所有数据均可公开后将仓库改为 public，才应在 `Settings → Pages` 选择 GitHub Actions 并运行它。
 
 ## 隐私提醒
 
-如果令牌能看到私有仓库，归档会包含私有仓库名称、描述、语言、流量等信息。请保持本仓库为 private，并确认你的 GitHub 套餐和组织策略支持受控访问的 private Pages。普通公开 GitHub Pages 会公开 `data/` 下的全部内容；无法确保访问控制时，不要启用 Pages，可在本地运行：
+如果令牌能看到私有仓库，归档会包含私有仓库名称、描述、语言、流量等信息。请保持本仓库为 private。普通公开 GitHub Pages 会公开 `data/` 下的全部内容；无法确保访问控制时，不要启用 Pages，可在本地运行：
 
 ```bash
 python -m http.server 8000
