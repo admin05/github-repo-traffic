@@ -20,6 +20,8 @@ concurrency:
 
 jobs:
   deploy:
+    # A private repository on GitHub Free has no Pages site to configure.
+    if: github.event.repository.visibility == 'public'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
