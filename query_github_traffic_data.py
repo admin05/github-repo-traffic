@@ -389,7 +389,7 @@ def list_owned_repositories(api: GitHubAPI, owner: str, login: str) -> list[dict
             "/user/repos",
             params={
                 "affiliation": "owner",
-                "visibility": "all",
+                "visibility": "public",
                 "sort": "full_name",
                 "direction": "asc",
             },
@@ -398,11 +398,24 @@ def list_owned_repositories(api: GitHubAPI, owner: str, login: str) -> list[dict
             repo
             for repo in repos
             if repo.get("owner", {}).get("login", "").lower() == owner.lower()
+            and repo.get("visibility", "public") == "public"
+            and not repo.get("private", False)
         ]
     return api.paginate(
         f"/users/{quote(owner, safe='')}/repos",
         params={"type": "owner", "sort": "full_name", "direction": "asc"},
     )
+
+
+def remove_non_public_archives(data_dir: Path, public_names: set[str]) -> None:
+    """Remove old private/renamed repository files before a public deployment."""
+    repository_dir = data_dir / "repositories"
+    if not repository_dir.exists():
+        return
+    allowed = {repo_filename(name) for name in public_names}
+    for path in repository_dir.glob("*.json"):
+        if path.name not in allowed:
+            path.unlink()
 
 
 def validate_data(data_dir: Path) -> int:
@@ -432,13 +445,17 @@ def main() -> int:
 
     token = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
     if not token:
-        parser.error("GH_TOKEN is required (use a fine-grained PAT with access to every repository)")
+        parser.error("GH_TOKEN is required (use a fine-grained PAT with access to every public repository)")
 
     api = GitHubAPI(token)
     owner, login = discover_owner(api, os.getenv("GITHUB_OWNER"))
     repositories = list_owned_repositories(api, owner, login)
+    remove_non_public_archives(data_dir, {repo["name"] for repo in repositories})
     if not repositories:
-        raise RuntimeError(f"No repositories visible for owner {owner!r}")
+        print(f"No public repositories visible for owner {owner!r}; writing an empty archive.")
+        captured_at = utc_now().isoformat().replace("+00:00", "Z")
+        write_json(data_dir / "dashboard.json", make_summary(owner, captured_at, []))
+        return 0
 
     captured_at = utc_now().isoformat().replace("+00:00", "Z")
     collected: list[dict[str, Any]] = []
