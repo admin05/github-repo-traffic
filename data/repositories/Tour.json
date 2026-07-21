@@ -33,10 +33,18 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-07-20T03:57:47Z",
+  "collected_at": "2026-07-21T00:14:41Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "open_issues_and_pulls": 0,
+      "size_kb": 15
+    },
+    {
+      "date": "2026-07-21",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
@@ -250,6 +258,11 @@
         "timestamp": "2026-07-18T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -322,6 +335,11 @@
         "timestamp": "2026-07-18T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -336,12 +354,29 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-07-21",
+        "captured_at": "2026-07-21T00:14:41Z",
+        "items": [
+          {
+            "path": "/admin05/Tour/forks",
+            "title": "/forks",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
       {
         "date": "2026-07-20",
         "captured_at": "2026-07-20T03:57:47Z",
+        "items": []
+      },
+      {
+        "date": "2026-07-21",
+        "captured_at": "2026-07-21T00:14:41Z",
         "items": []
       }
     ]
