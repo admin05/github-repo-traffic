@@ -18,11 +18,11 @@
     "default_branch": "main",
     "language": null,
     "topics": [],
-    "license": "NOASSERTION",
+    "license": "CC-BY-4.0",
     "created_at": "2026-07-15T08:21:13Z",
-    "updated_at": "2026-07-15T09:07:52Z",
-    "pushed_at": "2026-07-15T09:07:36Z",
-    "size_kb": 225665,
+    "updated_at": "2026-07-22T20:20:22Z",
+    "pushed_at": "2026-07-22T20:20:16Z",
+    "size_kb": 225671,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-07-22T00:11:29Z",
+  "collected_at": "2026-07-23T00:16:12Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -58,6 +58,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 225665
+    },
+    {
+      "date": "2026-07-23",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 225671
     }
   ],
   "languages": {},
@@ -72,11 +80,11 @@
       "issue_template": null,
       "pull_request_template": null,
       "license": {
-        "key": "other",
-        "name": "Other",
-        "spdx_id": "NOASSERTION",
-        "url": null,
-        "node_id": "MDc6TGljZW5zZTA=",
+        "key": "cc-by-4.0",
+        "name": "Creative Commons Attribution 4.0 International",
+        "spdx_id": "CC-BY-4.0",
+        "url": "https://api.github.com/licenses/cc-by-4.0",
+        "node_id": "MDc6TGljZW5zZTI1",
         "html_url": "https://github.com/admin05/gaokaomath-archive/blob/main/LICENSE"
       },
       "readme": {
@@ -145,8 +153,8 @@
       0,
       0,
       0,
-      0,
-      3
+      3,
+      1
     ],
     "owner": [
       0,
@@ -284,6 +292,11 @@
         "timestamp": "2026-07-20T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-21T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -366,6 +379,11 @@
         "timestamp": "2026-07-20T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-07-21T00:00:00Z",
+        "count": 1,
+        "uniques": 1
       }
     ],
     "popular_paths": [
@@ -383,6 +401,11 @@
         "date": "2026-07-22",
         "captured_at": "2026-07-22T00:11:29Z",
         "items": []
+      },
+      {
+        "date": "2026-07-23",
+        "captured_at": "2026-07-23T00:16:12Z",
+        "items": []
       }
     ],
     "popular_referrers": [
@@ -399,6 +422,11 @@
       {
         "date": "2026-07-22",
         "captured_at": "2026-07-22T00:11:29Z",
+        "items": []
+      },
+      {
+        "date": "2026-07-23",
+        "captured_at": "2026-07-23T00:16:12Z",
         "items": []
       }
     ]
