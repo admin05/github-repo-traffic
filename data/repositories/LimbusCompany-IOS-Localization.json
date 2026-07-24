@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-07-23T00:16:12Z",
+  "collected_at": "2026-07-24T00:14:26Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -61,6 +61,14 @@
     },
     {
       "date": "2026-07-23",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 71318
+    },
+    {
+      "date": "2026-07-24",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -138,20 +146,20 @@
       0,
       0,
       0,
-      10,
+      13,
+      3,
       4,
-      5,
-      5,
+      4,
+      4,
       2,
-      3,
-      3,
-      7,
-      4,
+      5,
       6,
-      2,
-      7,
-      7,
+      3,
       5,
+      3,
+      7,
+      8,
+      3,
       0,
       0,
       0,
@@ -299,6 +307,11 @@
         "timestamp": "2026-07-21T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -386,6 +399,11 @@
         "timestamp": "2026-07-21T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -436,6 +454,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-07-24",
+        "captured_at": "2026-07-24T00:14:26Z",
+        "items": [
+          {
+            "path": "/admin05/LimbusCompany-IOS-Localization",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -475,6 +505,17 @@
       {
         "date": "2026-07-23",
         "captured_at": "2026-07-23T00:16:12Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-07-24",
+        "captured_at": "2026-07-24T00:14:26Z",
         "items": [
           {
             "referrer": "github.com",

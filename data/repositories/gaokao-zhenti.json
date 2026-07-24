@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-07-23T00:16:12Z",
+  "collected_at": "2026-07-24T00:14:26Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -61,6 +61,14 @@
     },
     {
       "date": "2026-07-23",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 602
+    },
+    {
+      "date": "2026-07-24",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -293,6 +301,11 @@
         "timestamp": "2026-07-21T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -380,6 +393,11 @@
         "timestamp": "2026-07-21T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -454,6 +472,24 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-07-24",
+        "captured_at": "2026-07-24T00:14:26Z",
+        "items": [
+          {
+            "path": "/admin05/gaokao-zhenti",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/gaokao-zhenti/blob/main/requirements.txt",
+            "title": "/blob/main/requirements.txt",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -475,6 +511,11 @@
       {
         "date": "2026-07-23",
         "captured_at": "2026-07-23T00:16:12Z",
+        "items": []
+      },
+      {
+        "date": "2026-07-24",
+        "captured_at": "2026-07-24T00:14:26Z",
         "items": []
       }
     ]
