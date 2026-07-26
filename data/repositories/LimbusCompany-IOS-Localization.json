@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-07-25T00:17:55Z",
+  "collected_at": "2026-07-26T00:16:53Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -77,6 +77,14 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 71318
+    },
+    {
+      "date": "2026-07-26",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -155,18 +163,18 @@
       0,
       0,
       14,
+      4,
       3,
       4,
       4,
-      3,
-      3,
+      2,
       5,
       7,
-      3,
       4,
       3,
-      9,
       5,
+      8,
+      4,
       3,
       0,
       0,
@@ -325,6 +333,11 @@
         "timestamp": "2026-07-23T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -422,6 +435,11 @@
         "timestamp": "2026-07-23T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -496,6 +514,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-07-26",
+        "captured_at": "2026-07-26T00:16:53Z",
+        "items": [
+          {
+            "path": "/admin05/LimbusCompany-IOS-Localization",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -557,6 +587,17 @@
       {
         "date": "2026-07-25",
         "captured_at": "2026-07-25T00:17:55Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-07-26",
+        "captured_at": "2026-07-26T00:16:53Z",
         "items": [
           {
             "referrer": "github.com",
