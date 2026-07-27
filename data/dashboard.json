@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-07-26T00:16:53Z",
+  "generated_at": "2026-07-27T00:16:36Z",
   "repository_count": 44,
   "repositories": [
     {
@@ -354,8 +354,8 @@
           "uniques": 3
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -727,8 +727,8 @@
           "uniques": 5
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -843,12 +843,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 14,
-          "uniques": 14
+          "count": 15,
+          "uniques": 15
         },
         "clones_14d": {
-          "count": 14,
-          "uniques": 14
+          "count": 15,
+          "uniques": 15
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -940,8 +940,8 @@
         0,
         0,
         0,
-        10,
-        9,
+        11,
+        8,
         0,
         0
       ],
@@ -967,8 +967,8 @@
           "uniques": 55
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 5
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1177,10 +1177,10 @@
         0,
         0,
         0,
-        14,
-        6,
-        0,
-        7,
+        15,
+        5,
+        4,
+        3,
         6,
         1,
         0,
@@ -1209,8 +1209,8 @@
           "uniques": 8
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1418,8 +1418,8 @@
         0,
         0,
         0,
-        8,
-        9,
+        17,
+        0,
         0,
         0,
         0,
@@ -1445,29 +1445,16 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/ctrip-flight-monitor",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "github.com",
-            "count": 1,
-            "uniques": 1
-          }
-        ]
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/ctrip-flight-monitor.json",
       "collection_errors": []
@@ -1579,12 +1566,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2064,8 +2051,8 @@
           "uniques": 18
         },
         "clones_14d": {
-          "count": 7,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2191,12 +2178,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 35,
-          "uniques": 31
+          "count": 37,
+          "uniques": 33
         },
         "clones_14d": {
-          "count": 35,
-          "uniques": 31
+          "count": 37,
+          "uniques": 33
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2237,9 +2224,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-07-25T00:20:09Z",
-      "pushed_at": "2026-07-25T00:20:05Z",
-      "size_kb": 104,
+      "updated_at": "2026-07-26T00:18:36Z",
+      "pushed_at": "2026-07-26T00:18:32Z",
+      "size_kb": 113,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -2305,7 +2292,7 @@
         0,
         0,
         0,
-        14
+        15
       ],
       "community_health_percentage": 28,
       "counts": {
@@ -2325,12 +2312,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 76,
-          "uniques": 52
+          "count": 89,
+          "uniques": 64
         },
         "clones_14d": {
-          "count": 76,
-          "uniques": 52
+          "count": 89,
+          "uniques": 64
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -2449,8 +2436,8 @@
           "uniques": 2
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2563,12 +2550,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2679,8 +2666,8 @@
           "uniques": 1
         },
         "views_14d": {
-          "count": 3,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "clones_all_time": {
           "count": 2,
@@ -2951,14 +2938,7 @@
           "uniques": 2
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/JavaScript/pulse",
-            "title": "/pulse",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/JavaScript.json",
@@ -3031,21 +3011,21 @@
         0,
         0,
         0,
-        0,
-        14,
+        5,
+        9,
         4,
         3,
-        4,
-        4,
+        5,
+        3,
         2,
         5,
         7,
-        4,
-        3,
+        6,
+        1,
         5,
-        8,
-        4,
-        3,
+        10,
+        5,
+        0,
         0,
         0,
         0,
@@ -3205,12 +3185,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3304,8 +3284,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0
       ],
@@ -3447,12 +3427,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 13,
-          "uniques": 13
+          "count": 15,
+          "uniques": 15
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3824,8 +3804,8 @@
           "uniques": 3
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4072,8 +4052,8 @@
           "uniques": 3
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4312,8 +4292,8 @@
           "uniques": 9
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4668,12 +4648,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 7,
-          "uniques": 7
+          "count": 8,
+          "uniques": 8
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -5035,12 +5015,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-06-30",
         "latest_popular_paths": [],
@@ -5249,8 +5229,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         19,
         15,
         0,
@@ -5277,12 +5257,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 8,
-          "uniques": 4
+          "count": 9,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -5369,8 +5349,8 @@
         0,
         0,
         0,
-        0,
-        4,
+        3,
+        1,
         2,
         1,
         0,
