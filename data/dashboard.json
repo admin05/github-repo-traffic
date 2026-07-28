@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-07-27T00:16:36Z",
+  "generated_at": "2026-07-28T00:13:26Z",
   "repository_count": 44,
   "repositories": [
     {
@@ -199,8 +199,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -230,12 +230,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -321,8 +321,8 @@
         0,
         0,
         0,
-        4,
-        2,
+        6,
+        0,
         0,
         0,
         0,
@@ -458,8 +458,8 @@
         0,
         0,
         0,
-        0,
-        5,
+        4,
+        1,
         0,
         0,
         0,
@@ -483,12 +483,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -607,8 +607,8 @@
           "uniques": 3
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -939,8 +939,8 @@
         0,
         0,
         0,
-        0,
-        11,
+        8,
+        3,
         8,
         0,
         0
@@ -963,12 +963,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 79,
-          "uniques": 55
+          "count": 80,
+          "uniques": 56
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1083,12 +1083,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1179,8 +1179,8 @@
         0,
         15,
         5,
-        4,
-        3,
+        7,
+        0,
         6,
         1,
         0,
@@ -1209,8 +1209,8 @@
           "uniques": 8
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1539,8 +1539,8 @@
         0,
         0,
         0,
-        46,
-        9,
+        48,
+        7,
         0,
         0,
         0,
@@ -1926,12 +1926,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2043,16 +2043,16 @@
           "uniques": 2
         },
         "views_14d": {
-          "count": 3,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 19,
           "uniques": 18
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2178,12 +2178,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 37,
-          "uniques": 33
+          "count": 39,
+          "uniques": 35
         },
         "clones_14d": {
-          "count": 37,
-          "uniques": 33
+          "count": 39,
+          "uniques": 35
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2224,9 +2224,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-07-26T00:18:36Z",
-      "pushed_at": "2026-07-26T00:18:32Z",
-      "size_kb": 113,
+      "updated_at": "2026-07-27T00:18:15Z",
+      "pushed_at": "2026-07-27T00:18:11Z",
+      "size_kb": 122,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -2291,8 +2291,8 @@
         0,
         0,
         0,
-        0,
-        15
+        9,
+        7
       ],
       "community_health_percentage": 28,
       "counts": {
@@ -2312,12 +2312,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 89,
-          "uniques": 64
+          "count": 107,
+          "uniques": 74
         },
         "clones_14d": {
-          "count": 89,
-          "uniques": 64
+          "count": 107,
+          "uniques": 74
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -2525,8 +2525,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0,
@@ -2641,8 +2641,8 @@
         0,
         0,
         0,
-        10,
-        10,
+        20,
+        0,
         0,
         0,
         0,
@@ -2670,12 +2670,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2780,8 +2780,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        1,
+        2,
         1,
         0,
         0,
@@ -3011,18 +3011,18 @@
         0,
         0,
         0,
-        5,
-        9,
+        7,
+        7,
         4,
         3,
         5,
         3,
-        2,
-        5,
+        3,
+        4,
         7,
         6,
-        1,
-        5,
+        2,
+        4,
         10,
         5,
         0,
@@ -3050,29 +3050,16 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 5,
-          "uniques": 4
+          "count": 6,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/LimbusCompany-IOS-Localization",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "github.com",
-            "count": 1,
-            "uniques": 1
-          }
-        ]
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/LimbusCompany-IOS-Localization.json",
       "collection_errors": []
@@ -3159,8 +3146,8 @@
         0,
         0,
         0,
-        7,
         8,
+        7,
         0,
         0,
         0,
@@ -3307,12 +3294,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 23,
-          "uniques": 18
+          "count": 25,
+          "uniques": 20
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3398,10 +3385,10 @@
         0,
         0,
         0,
-        15,
-        5,
+        17,
+        4,
         3,
-        1,
+        0,
         3,
         0,
         2,
@@ -3431,8 +3418,8 @@
           "uniques": 15
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3547,12 +3534,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 11,
-          "uniques": 10
+          "count": 13,
+          "uniques": 12
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3667,8 +3654,8 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 10,
-          "uniques": 10
+          "count": 11,
+          "uniques": 11
         },
         "clones_14d": {
           "count": 2,
@@ -3899,8 +3886,8 @@
         0,
         0,
         0,
-        4,
-        16,
+        6,
+        14,
         0,
         0,
         0,
@@ -4048,12 +4035,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4264,8 +4251,8 @@
         0,
         0,
         0,
-        0,
         3,
+        0,
         0,
         0,
         0
@@ -4292,8 +4279,8 @@
           "uniques": 9
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4412,8 +4399,8 @@
           "uniques": 3
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4652,8 +4639,8 @@
           "uniques": 8
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4768,12 +4755,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4888,12 +4875,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -5137,12 +5124,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -5231,8 +5218,8 @@
         0,
         2,
         0,
-        19,
-        15,
+        26,
+        8,
         0,
         0,
         0,
@@ -5350,8 +5337,8 @@
         0,
         0,
         3,
-        1,
-        2,
+        3,
+        0,
         1,
         0,
         0,
