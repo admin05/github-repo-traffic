@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-07-30T00:14:25Z",
+  "generated_at": "2026-07-31T00:17:49Z",
   "repository_count": 44,
   "repositories": [
     {
@@ -85,8 +85,8 @@
         0,
         0,
         0,
-        2,
-        30,
+        14,
+        18,
         0,
         0,
         0,
@@ -939,8 +939,8 @@
         0,
         0,
         0,
-        8,
         10,
+        8,
         1,
         0,
         0
@@ -1054,8 +1054,8 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
         0,
         0,
         0,
@@ -1177,12 +1177,12 @@
         0,
         0,
         0,
-        15,
-        5,
+        20,
+        0,
         7,
         6,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -1325,12 +1325,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 20,
-          "uniques": 15
+          "count": 21,
+          "uniques": 16
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1896,8 +1896,8 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
         0,
         0,
         0,
@@ -2055,14 +2055,7 @@
           "uniques": 2
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/gaokao-zhenti",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/gaokao-zhenti.json",
@@ -2087,9 +2080,9 @@
       "topics": [],
       "license": "CC-BY-4.0",
       "created_at": "2026-07-15T08:21:13Z",
-      "updated_at": "2026-07-29T20:17:22Z",
-      "pushed_at": "2026-07-29T20:17:07Z",
-      "size_kb": 226224,
+      "updated_at": "2026-07-30T20:34:39Z",
+      "pushed_at": "2026-07-30T20:34:12Z",
+      "size_kb": 226227,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -2152,7 +2145,7 @@
         0,
         3,
         1,
-        2
+        3
       ],
       "community_health_percentage": 28,
       "counts": {
@@ -2172,12 +2165,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 42,
-          "uniques": 38
+          "count": 51,
+          "uniques": 43
         },
         "clones_14d": {
-          "count": 20,
-          "uniques": 20
+          "count": 28,
+          "uniques": 24
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2218,9 +2211,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-07-29T00:14:48Z",
-      "pushed_at": "2026-07-29T00:14:43Z",
-      "size_kb": 140,
+      "updated_at": "2026-07-30T00:16:48Z",
+      "pushed_at": "2026-07-30T00:16:44Z",
+      "size_kb": 149,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -2285,7 +2278,7 @@
         0,
         0,
         0,
-        11,
+        12,
         7
       ],
       "community_health_percentage": 28,
@@ -2306,12 +2299,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 131,
-          "uniques": 90
+          "count": 142,
+          "uniques": 101
         },
         "clones_14d": {
-          "count": 131,
-          "uniques": 90
+          "count": 142,
+          "uniques": 101
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -2986,20 +2979,20 @@
         0,
         0,
         0,
-        10,
+        13,
+        3,
         4,
-        5,
-        5,
+        4,
+        4,
         2,
-        3,
-        3,
-        7,
-        4,
+        5,
         6,
-        2,
-        7,
-        7,
+        3,
         5,
+        3,
+        7,
+        8,
+        3,
         0,
         0,
         0,
@@ -3025,11 +3018,11 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
         },
         "clones_14d": {
-          "count": 3,
+          "count": 2,
           "uniques": 2
         },
         "first_archived_date": "2026-07-05",
@@ -3121,8 +3114,8 @@
         0,
         0,
         7,
-        1,
-        7,
+        8,
+        0,
         0,
         0,
         0,
@@ -3359,8 +3352,8 @@
         0,
         0,
         0,
-        1,
-        19,
+        11,
+        9,
         3,
         1,
         3,
@@ -3393,8 +3386,8 @@
           "uniques": 15
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3509,12 +3502,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 13,
-          "uniques": 12
+          "count": 14,
+          "uniques": 13
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3629,12 +3622,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 12,
-          "uniques": 12
+          "count": 13,
+          "uniques": 13
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -3735,8 +3728,8 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
         0,
         0,
         0,
@@ -4134,8 +4127,8 @@
           "uniques": 2
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -4858,14 +4851,7 @@
           "uniques": 1
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/Tour/forks",
-            "title": "/forks",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Tour.json",
@@ -5070,8 +5056,8 @@
         0,
         0,
         0,
-        0,
-        18,
+        6,
+        12,
         0,
         0,
         0,
@@ -5192,8 +5178,8 @@
         0,
         0,
         2,
-        6,
-        20,
+        7,
+        19,
         8,
         0,
         0,
@@ -5211,12 +5197,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 9,
@@ -5227,7 +5213,14 @@
           "uniques": 1
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/water-monster-mod",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/water-monster-mod.json",
