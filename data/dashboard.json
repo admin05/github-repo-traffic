@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-08-01T00:14:10Z",
+  "generated_at": "2026-08-02T00:16:04Z",
   "repository_count": 44,
   "repositories": [
     {
@@ -85,8 +85,8 @@
         0,
         0,
         0,
-        26,
-        6,
+        32,
+        0,
         0,
         0,
         0,
@@ -603,12 +603,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1176,8 +1176,8 @@
         0,
         0,
         0,
-        1,
-        19,
+        14,
+        6,
         0,
         7,
         6,
@@ -1417,8 +1417,8 @@
         0,
         0,
         0,
-        0,
-        17,
+        8,
+        9,
         0,
         0,
         0,
@@ -1538,8 +1538,8 @@
         0,
         0,
         0,
-        43,
-        12,
+        46,
+        9,
         0,
         0,
         0,
@@ -1570,8 +1570,8 @@
           "uniques": 4
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2047,8 +2047,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 19,
-          "uniques": 18
+          "count": 20,
+          "uniques": 19
         },
         "clones_14d": {
           "count": 1,
@@ -2165,12 +2165,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 57,
-          "uniques": 46
+          "count": 74,
+          "uniques": 56
         },
         "clones_14d": {
-          "count": 29,
-          "uniques": 22
+          "count": 45,
+          "uniques": 31
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2211,9 +2211,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-07-31T00:19:43Z",
-      "pushed_at": "2026-07-31T00:19:38Z",
-      "size_kb": 158,
+      "updated_at": "2026-08-01T00:16:40Z",
+      "pushed_at": "2026-08-01T00:16:36Z",
+      "size_kb": 167,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -2278,7 +2278,7 @@
         0,
         0,
         0,
-        13,
+        14,
         7
       ],
       "community_health_percentage": 28,
@@ -2299,12 +2299,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 151,
-          "uniques": 106
+          "count": 163,
+          "uniques": 114
         },
         "clones_14d": {
-          "count": 151,
-          "uniques": 106
+          "count": 163,
+          "uniques": 114
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -2980,18 +2980,18 @@
         0,
         0,
         14,
+        4,
         3,
         4,
         4,
-        3,
-        3,
+        2,
         5,
         7,
-        3,
         4,
         3,
-        9,
         5,
+        8,
+        4,
         3,
         0,
         0,
@@ -3254,12 +3254,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 26,
@@ -3270,8 +3270,21 @@
           "uniques": 4
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/neater-bookmarks.json",
       "collection_errors": []
@@ -3494,12 +3507,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 14,
@@ -3510,8 +3523,21 @@
           "uniques": 3
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/ninebot",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/ninebot.json",
       "collection_errors": []
@@ -3614,12 +3640,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 13,
@@ -3630,8 +3656,21 @@
           "uniques": 3
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/nodeseek",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/nodeseek.json",
       "collection_errors": []
@@ -3840,8 +3879,8 @@
         0,
         0,
         0,
-        3,
-        17,
+        4,
+        16,
         0,
         0,
         0,
@@ -4680,8 +4719,8 @@
         0,
         0,
         0,
-        0,
-        6,
+        4,
+        2,
         0,
         0,
         1,
@@ -5165,8 +5204,8 @@
         0,
         0,
         2,
-        16,
-        18,
+        19,
+        15,
         0,
         0,
         0,
