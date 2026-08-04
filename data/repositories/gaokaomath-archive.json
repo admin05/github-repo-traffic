@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-03T00:15:58Z",
+  "collected_at": "2026-08-04T00:17:45Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -149,6 +149,14 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 226596
+    },
+    {
+      "date": "2026-08-04",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -719,6 +727,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-04",
+        "captured_at": "2026-08-04T00:17:45Z",
+        "items": [
+          {
+            "path": "/admin05/gaokaomath-archive/blob/main/普通高考/1986/1986全国理.pdf",
+            "title": "/blob/main/普通高考/1986/1986全国理.pdf",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -849,6 +869,17 @@
       {
         "date": "2026-08-03",
         "captured_at": "2026-08-03T00:15:58Z",
+        "items": [
+          {
+            "referrer": "Bing",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "captured_at": "2026-08-04T00:17:45Z",
         "items": [
           {
             "referrer": "Bing",

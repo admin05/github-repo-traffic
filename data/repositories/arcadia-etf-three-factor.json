@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-03T00:15:58Z",
+  "collected_at": "2026-08-04T00:17:45Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -154,6 +154,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 17
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 17
     }
   ],
   "languages": {
@@ -227,8 +235,8 @@
       0,
       0,
       0,
-      4,
-      2,
+      6,
+      0,
       0,
       0,
       0,
@@ -430,6 +438,16 @@
         "timestamp": "2026-07-31T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -565,6 +583,16 @@
       },
       {
         "timestamp": "2026-07-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -721,6 +749,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-04",
+        "captured_at": "2026-08-04T00:17:45Z",
+        "items": [
+          {
+            "path": "/admin05/arcadia-etf-three-factor",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -857,6 +897,17 @@
       {
         "date": "2026-08-03",
         "captured_at": "2026-08-03T00:15:58Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "captured_at": "2026-08-04T00:17:45Z",
         "items": [
           {
             "referrer": "github.com",
