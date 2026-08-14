@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-14T00:01:29Z",
+  "collected_at": "2026-08-14T23:42:00Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -570,6 +570,11 @@
         "timestamp": "2026-08-12T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -765,6 +770,11 @@
       },
       {
         "timestamp": "2026-08-12T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -969,7 +979,7 @@
       },
       {
         "date": "2026-08-14",
-        "captured_at": "2026-08-14T00:01:29Z",
+        "captured_at": "2026-08-14T23:42:00Z",
         "items": [
           {
             "path": "/admin05/ninebot",
@@ -1169,7 +1179,7 @@
       },
       {
         "date": "2026-08-14",
-        "captured_at": "2026-08-14T00:01:29Z",
+        "captured_at": "2026-08-14T23:42:00Z",
         "items": [
           {
             "referrer": "github.com",

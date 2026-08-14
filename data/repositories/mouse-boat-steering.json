@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "owner": "admin05",
+  "repository": {
+    "id": 1328322367,
+    "node_id": "R_kgDOTyyXPw",
+    "name": "mouse-boat-steering",
+    "full_name": "admin05/mouse-boat-steering",
+    "html_url": "https://github.com/admin05/mouse-boat-steering",
+    "description": null,
+    "homepage": null,
+    "private": false,
+    "visibility": "public",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "is_template": false,
+    "default_branch": "main",
+    "language": "Java",
+    "topics": [],
+    "license": "MIT",
+    "created_at": "2026-08-09T01:32:17Z",
+    "updated_at": "2026-08-14T10:48:52Z",
+    "pushed_at": "2026-08-14T10:48:48Z",
+    "size_kb": 70,
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "open_issues_and_pulls": 0,
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false
+  },
+  "collected_at": "2026-08-14T23:42:00Z",
+  "metadata_history": [
+    {
+      "date": "2026-08-14",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 70
+    }
+  ],
+  "languages": {
+    "Java": 9493
+  },
+  "community": {
+    "health_percentage": 28,
+    "description": null,
+    "documentation": null,
+    "files": {
+      "code_of_conduct": null,
+      "code_of_conduct_file": null,
+      "contributing": null,
+      "issue_template": null,
+      "pull_request_template": null,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz",
+        "html_url": "https://github.com/admin05/mouse-boat-steering/blob/main/LICENSE"
+      },
+      "readme": {
+        "url": "https://api.github.com/repos/admin05/mouse-boat-steering/contents/README.md",
+        "html_url": "https://github.com/admin05/mouse-boat-steering/blob/main/README.md"
+      }
+    },
+    "updated_at": null
+  },
+  "counts": {
+    "contributors": 1,
+    "branches": 1,
+    "tags": 0,
+    "releases": 0,
+    "open_pull_requests": 0
+  },
+  "participation": {
+    "all": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "owner": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "traffic": {
+    "views": [
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-03T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-05T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-06T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-07T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-08T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-09T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-12T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-14T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "clones": [
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-03T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-05T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-06T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-07T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-08T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-09T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-12T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-13T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-14T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "popular_paths": [
+      {
+        "date": "2026-08-14",
+        "captured_at": "2026-08-14T23:42:00Z",
+        "items": []
+      }
+    ],
+    "popular_referrers": [
+      {
+        "date": "2026-08-14",
+        "captured_at": "2026-08-14T23:42:00Z",
+        "items": []
+      }
+    ]
+  },
+  "collection_errors": []
+}
