@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-08-15T23:39:07Z",
+  "generated_at": "2026-08-16T23:37:35Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -83,8 +83,8 @@
         0,
         0,
         0,
-        26,
-        6,
+        32,
+        0,
         0,
         0,
         0,
@@ -561,8 +561,8 @@
         0,
         0,
         0,
-        1,
-        19,
+        14,
+        6,
         0,
         7,
         6,
@@ -592,12 +592,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 82,
-          "uniques": 52
+          "count": 85,
+          "uniques": 53
         },
         "clones_14d": {
-          "count": 74,
-          "uniques": 44
+          "count": 77,
+          "uniques": 45
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -952,12 +952,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 10,
-          "uniques": 10
+          "count": 11,
+          "uniques": 11
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1049,8 +1049,8 @@
         3,
         1,
         4,
-        2,
-        2
+        3,
+        1
       ],
       "community_health_percentage": 28,
       "counts": {
@@ -1070,8 +1070,8 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 103,
-          "uniques": 82
+          "count": 104,
+          "uniques": 83
         },
         "clones_14d": {
           "count": 27,
@@ -1116,9 +1116,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-08-14T23:43:36Z",
-      "pushed_at": "2026-08-14T23:43:25Z",
-      "size_kb": 261,
+      "updated_at": "2026-08-15T23:40:13Z",
+      "pushed_at": "2026-08-15T23:40:09Z",
+      "size_kb": 266,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1181,7 +1181,7 @@
         0,
         0,
         0,
-        13,
+        14,
         7,
         8,
         7
@@ -1204,12 +1204,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 268,
-          "uniques": 185
+          "count": 270,
+          "uniques": 187
         },
         "clones_14d": {
-          "count": 99,
-          "uniques": 65
+          "count": 98,
+          "uniques": 64
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1609,9 +1609,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-08-09T01:32:17Z",
-      "updated_at": "2026-08-15T15:05:48Z",
-      "pushed_at": "2026-08-15T15:05:38Z",
-      "size_kb": 125,
+      "updated_at": "2026-08-16T12:06:32Z",
+      "pushed_at": "2026-08-16T12:05:21Z",
+      "size_kb": 128,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1622,7 +1622,7 @@
       "has_pages": false,
       "has_discussions": false,
       "languages": {
-        "Java": 20519
+        "Java": 20717
       },
       "participation_52_weeks": [
         0,
@@ -1676,7 +1676,7 @@
         0,
         0,
         0,
-        6
+        11
       ],
       "community_health_percentage": 28,
       "counts": {
@@ -1696,12 +1696,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 8,
-          "uniques": 7
+          "count": 27,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 8,
-          "uniques": 7
+          "count": 27,
+          "uniques": 19
         },
         "first_archived_date": "2026-08-01",
         "latest_popular_paths": [],
@@ -2895,8 +2895,8 @@
         0,
         0,
         0,
-        0,
-        6,
+        4,
+        2,
         0,
         0,
         1,
@@ -3039,12 +3039,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 7,
@@ -3055,7 +3055,14 @@
           "uniques": 3
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/Tour",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Tour.json",
@@ -3171,8 +3178,8 @@
           "uniques": 6
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-06-30",
         "latest_popular_paths": [],
@@ -3258,8 +3265,8 @@
         0,
         0,
         2,
-        16,
-        18,
+        19,
+        15,
         0,
         0,
         0,

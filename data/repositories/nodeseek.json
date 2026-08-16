@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-15T23:39:07Z",
+  "collected_at": "2026-08-16T23:37:35Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -237,6 +237,14 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 35
+    },
+    {
+      "date": "2026-08-16",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -588,6 +596,11 @@
         "timestamp": "2026-08-14T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-15T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -793,6 +806,11 @@
       },
       {
         "timestamp": "2026-08-14T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-15T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -1102,6 +1120,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-16",
+        "captured_at": "2026-08-16T23:37:35Z",
+        "items": [
+          {
+            "path": "/admin05/nodeseek",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1377,6 +1407,17 @@
       {
         "date": "2026-08-15",
         "captured_at": "2026-08-15T23:39:07Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-08-16",
+        "captured_at": "2026-08-16T23:37:35Z",
         "items": [
           {
             "referrer": "github.com",
