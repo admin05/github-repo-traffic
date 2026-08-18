@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-08-17T23:41:13Z",
+  "generated_at": "2026-08-18T23:41:11Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -202,8 +202,8 @@
         0,
         0,
         0,
-        0,
-        5,
+        4,
+        1,
         0,
         0,
         0,
@@ -350,8 +350,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 8,
-          "uniques": 8
+          "count": 9,
+          "uniques": 9
         },
         "clones_14d": {
           "count": 3,
@@ -443,8 +443,8 @@
         0,
         0,
         0,
-        0,
-        11,
+        8,
+        3,
         8,
         0,
         0,
@@ -474,8 +474,8 @@
           "uniques": 60
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 4
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -503,9 +503,9 @@
       "topics": [],
       "license": null,
       "created_at": "2026-05-29T01:51:21Z",
-      "updated_at": "2026-08-11T07:55:25Z",
-      "pushed_at": "2026-08-11T07:55:14Z",
-      "size_kb": 1451,
+      "updated_at": "2026-08-18T08:08:26Z",
+      "pushed_at": "2026-08-18T08:05:47Z",
+      "size_kb": 1619,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -516,7 +516,7 @@
       "has_pages": false,
       "has_discussions": false,
       "languages": {
-        "Python": 1647541,
+        "Python": 1650426,
         "CSS": 9728,
         "Dockerfile": 442
       },
@@ -563,16 +563,16 @@
         0,
         15,
         5,
-        4,
-        3,
+        7,
+        0,
         6,
         1,
         0,
         0,
         0,
         0,
-        5,
-        8
+        10,
+        3
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -584,23 +584,30 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 85,
           "uniques": 53
         },
         "clones_14d": {
-          "count": 77,
-          "uniques": 45
+          "count": 48,
+          "uniques": 30
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/cpp-exam-generator",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/cpp-exam-generator.json",
@@ -956,8 +963,8 @@
           "uniques": 11
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -985,9 +992,9 @@
       "topics": [],
       "license": "CC-BY-4.0",
       "created_at": "2026-07-15T08:21:13Z",
-      "updated_at": "2026-08-17T19:41:33Z",
-      "pushed_at": "2026-08-17T19:40:43Z",
-      "size_kb": 318837,
+      "updated_at": "2026-08-18T19:41:58Z",
+      "pushed_at": "2026-08-18T19:39:05Z",
+      "size_kb": 319284,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1049,7 +1056,7 @@
         3,
         1,
         4,
-        3,
+        4,
         1
       ],
       "community_health_percentage": 28,
@@ -1070,8 +1077,8 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 104,
-          "uniques": 83
+          "count": 106,
+          "uniques": 85
         },
         "clones_14d": {
           "count": 26,
@@ -1116,9 +1123,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-08-16T23:38:49Z",
-      "pushed_at": "2026-08-16T23:38:40Z",
-      "size_kb": 272,
+      "updated_at": "2026-08-17T23:42:30Z",
+      "pushed_at": "2026-08-17T23:42:26Z",
+      "size_kb": 277,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1180,8 +1187,8 @@
         0,
         0,
         0,
-        0,
-        15,
+        9,
+        7,
         7,
         8,
         7
@@ -1204,12 +1211,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 270,
-          "uniques": 187
+          "count": 286,
+          "uniques": 198
         },
         "clones_14d": {
-          "count": 91,
-          "uniques": 60
+          "count": 97,
+          "uniques": 65
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1294,8 +1301,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         0,
         0,
@@ -1318,8 +1325,8 @@
           "uniques": 1
         },
         "views_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "clones_all_time": {
           "count": 7,
@@ -1423,8 +1430,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        1,
+        2,
         1,
         0,
         0,
@@ -1696,12 +1703,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 27,
-          "uniques": 19
+          "count": 31,
+          "uniques": 23
         },
         "clones_14d": {
-          "count": 27,
-          "uniques": 19
+          "count": 31,
+          "uniques": 23
         },
         "first_archived_date": "2026-08-01",
         "latest_popular_paths": [],
@@ -1789,8 +1796,8 @@
         0,
         0,
         0,
-        7,
         8,
+        7,
         0,
         0,
         0,
@@ -1932,12 +1939,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 27,
@@ -1948,8 +1955,21 @@
           "uniques": 1
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/neater-bookmarks.json",
       "collection_errors": []
@@ -2028,10 +2048,10 @@
         0,
         0,
         0,
-        15,
-        5,
+        17,
+        4,
         3,
-        1,
+        0,
         3,
         0,
         2,
@@ -2188,21 +2208,8 @@
           "uniques": 3
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/ninebot",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "github.com",
-            "count": 1,
-            "uniques": 1
-          }
-        ]
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/ninebot.json",
       "collection_errors": []
@@ -2451,8 +2458,8 @@
           "uniques": 6
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2660,8 +2667,8 @@
         0,
         0,
         0,
-        0,
         3,
+        0,
         0,
         0,
         0,
@@ -2687,12 +2694,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 10,
-          "uniques": 10
+          "count": 11,
+          "uniques": 11
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2931,8 +2938,8 @@
           "uniques": 6
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3265,8 +3272,8 @@
         0,
         2,
         0,
-        19,
-        15,
+        26,
+        8,
         0,
         0,
         0,
