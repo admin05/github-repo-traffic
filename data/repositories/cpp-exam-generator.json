@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-21T23:42:54Z",
+  "collected_at": "2026-08-22T23:39:06Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -290,6 +290,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 579
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 579
     }
   ],
   "languages": {
@@ -363,8 +371,8 @@
       0,
       0,
       0,
-      0,
-      20,
+      1,
+      19,
       0,
       7,
       6,
@@ -375,7 +383,7 @@
       0,
       5,
       8,
-      5
+      6
     ],
     "owner": [
       0,
@@ -668,6 +676,11 @@
         "timestamp": "2026-08-20T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -905,6 +918,11 @@
         "timestamp": "2026-08-20T00:00:00Z",
         "count": 9,
         "uniques": 7
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 5,
+        "uniques": 5
       }
     ],
     "popular_paths": [
@@ -1095,6 +1113,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-22",
+        "captured_at": "2026-08-22T23:39:06Z",
+        "items": [
+          {
+            "path": "/admin05/cpp-exam-generator",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1256,6 +1286,11 @@
       {
         "date": "2026-08-21",
         "captured_at": "2026-08-21T23:42:54Z",
+        "items": []
+      },
+      {
+        "date": "2026-08-22",
+        "captured_at": "2026-08-22T23:39:06Z",
         "items": []
       }
     ]

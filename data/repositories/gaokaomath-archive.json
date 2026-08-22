@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-21T23:42:54Z",
+  "collected_at": "2026-08-22T23:39:06Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -290,6 +290,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 319440
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 319440
     }
   ],
   "languages": {},
@@ -375,10 +383,10 @@
       0,
       3,
       1,
-      3,
-      1,
       4,
-      3
+      2,
+      2,
+      4
     ],
     "owner": [
       0,
@@ -671,6 +679,11 @@
         "timestamp": "2026-08-20T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -908,6 +921,11 @@
         "timestamp": "2026-08-20T00:00:00Z",
         "count": 2,
         "uniques": 2
+      },
+      {
+        "timestamp": "2026-08-21T00:00:00Z",
+        "count": 3,
+        "uniques": 3
       }
     ],
     "popular_paths": [
@@ -1224,6 +1242,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-22",
+        "captured_at": "2026-08-22T23:39:06Z",
+        "items": [
+          {
+            "path": "/admin05/gaokaomath-archive",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1511,6 +1541,17 @@
       {
         "date": "2026-08-21",
         "captured_at": "2026-08-21T23:42:54Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-08-22",
+        "captured_at": "2026-08-22T23:39:06Z",
         "items": [
           {
             "referrer": "github.com",
