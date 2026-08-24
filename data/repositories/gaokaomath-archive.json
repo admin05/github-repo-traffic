@@ -20,9 +20,9 @@
     "topics": [],
     "license": "CC-BY-4.0",
     "created_at": "2026-07-15T08:21:13Z",
-    "updated_at": "2026-08-21T19:35:57Z",
-    "pushed_at": "2026-08-21T19:35:53Z",
-    "size_kb": 319440,
+    "updated_at": "2026-08-24T19:55:29Z",
+    "pushed_at": "2026-08-24T19:42:57Z",
+    "size_kb": 328741,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-23T23:39:44Z",
+  "collected_at": "2026-08-24T23:40:36Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -306,6 +306,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 319440
+    },
+    {
+      "date": "2026-08-24",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 328741
     }
   ],
   "languages": {},
@@ -697,6 +705,11 @@
         "timestamp": "2026-08-22T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -944,6 +957,11 @@
         "timestamp": "2026-08-22T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 2,
+        "uniques": 2
       }
     ],
     "popular_paths": [
@@ -1284,6 +1302,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-08-24",
+        "captured_at": "2026-08-24T23:40:36Z",
+        "items": [
+          {
+            "path": "/admin05/gaokaomath-archive",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1593,6 +1623,17 @@
       {
         "date": "2026-08-23",
         "captured_at": "2026-08-23T23:39:44Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-08-24",
+        "captured_at": "2026-08-24T23:40:36Z",
         "items": [
           {
             "referrer": "github.com",
