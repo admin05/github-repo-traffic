@@ -20,9 +20,9 @@
     "topics": [],
     "license": "MIT",
     "created_at": "2026-05-13T01:40:03Z",
-    "updated_at": "2026-08-24T09:00:01Z",
-    "pushed_at": "2026-08-24T08:57:58Z",
-    "size_kb": 160,
+    "updated_at": "2026-08-26T08:04:08Z",
+    "pushed_at": "2026-08-26T08:01:16Z",
+    "size_kb": 231,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-25T23:42:41Z",
+  "collected_at": "2026-08-27T04:32:56Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -322,10 +322,18 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 160
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 231
     }
   ],
   "languages": {
-    "JavaScript": 66775,
+    "JavaScript": 73849,
     "CSS": 13762,
     "HTML": 4277
   },
@@ -399,8 +407,8 @@
       0,
       0,
       0,
-      0,
       1,
+      0,
       0,
       0,
       0,
@@ -414,7 +422,7 @@
       0,
       0,
       0,
-      1
+      5
     ],
     "owner": [
       0,
@@ -727,6 +735,11 @@
         "timestamp": "2026-08-24T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -984,6 +997,11 @@
         "timestamp": "2026-08-24T00:00:00Z",
         "count": 3,
         "uniques": 3
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -1306,6 +1324,18 @@
             "uniques": 3
           }
         ]
+      },
+      {
+        "date": "2026-08-27",
+        "captured_at": "2026-08-27T04:32:56Z",
+        "items": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1601,6 +1631,17 @@
       {
         "date": "2026-08-25",
         "captured_at": "2026-08-25T23:42:41Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "captured_at": "2026-08-27T04:32:56Z",
         "items": [
           {
             "referrer": "github.com",
