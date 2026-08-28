@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-27T04:32:56Z",
+  "collected_at": "2026-08-28T06:57:18Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -325,6 +325,14 @@
     },
     {
       "date": "2026-08-27",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 231
+    },
+    {
+      "date": "2026-08-28",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -740,6 +748,16 @@
         "timestamp": "2026-08-25T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1000,6 +1018,16 @@
       },
       {
         "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 6,
+        "uniques": 5
+      },
+      {
+        "timestamp": "2026-08-27T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -1336,6 +1364,18 @@
             "uniques": 3
           }
         ]
+      },
+      {
+        "date": "2026-08-28",
+        "captured_at": "2026-08-28T06:57:18Z",
+        "items": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1642,6 +1682,17 @@
       {
         "date": "2026-08-27",
         "captured_at": "2026-08-27T04:32:56Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
+      },
+      {
+        "date": "2026-08-28",
+        "captured_at": "2026-08-28T06:57:18Z",
         "items": [
           {
             "referrer": "github.com",
