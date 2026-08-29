@@ -20,9 +20,9 @@
     "topics": [],
     "license": null,
     "created_at": "2026-05-29T01:51:21Z",
-    "updated_at": "2026-08-26T02:41:59Z",
-    "pushed_at": "2026-08-26T02:41:49Z",
-    "size_kb": 984,
+    "updated_at": "2026-08-28T09:40:07Z",
+    "pushed_at": "2026-08-28T09:37:35Z",
+    "size_kb": 274136,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-28T06:57:18Z",
+  "collected_at": "2026-08-29T04:11:11Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -338,10 +338,18 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 984
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 274136
     }
   ],
   "languages": {
-    "Python": 1718686,
+    "Python": 1729178,
     "CSS": 9728,
     "Dockerfile": 442
   },
@@ -410,8 +418,8 @@
       0,
       0,
       0,
-      0,
-      20,
+      1,
+      19,
       0,
       7,
       6,
@@ -422,8 +430,8 @@
       0,
       5,
       8,
-      5,
-      5
+      6,
+      8
     ],
     "owner": [
       0,
@@ -1285,6 +1293,18 @@
             "uniques": 2
           }
         ]
+      },
+      {
+        "date": "2026-08-29",
+        "captured_at": "2026-08-29T04:11:11Z",
+        "items": [
+          {
+            "path": "/admin05/cpp-exam-generator",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 2
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1476,6 +1496,11 @@
       {
         "date": "2026-08-28",
         "captured_at": "2026-08-28T06:57:18Z",
+        "items": []
+      },
+      {
+        "date": "2026-08-29",
+        "captured_at": "2026-08-29T04:11:11Z",
         "items": []
       }
     ]

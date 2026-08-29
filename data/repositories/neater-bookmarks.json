@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-08-28T06:57:18Z",
+  "collected_at": "2026-08-29T04:11:11Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -333,6 +333,14 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 231
+    },
+    {
+      "date": "2026-08-29",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1376,6 +1384,18 @@
             "uniques": 3
           }
         ]
+      },
+      {
+        "date": "2026-08-29",
+        "captured_at": "2026-08-29T04:11:11Z",
+        "items": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1693,6 +1713,17 @@
       {
         "date": "2026-08-28",
         "captured_at": "2026-08-28T06:57:18Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
+      },
+      {
+        "date": "2026-08-29",
+        "captured_at": "2026-08-29T04:11:11Z",
         "items": [
           {
             "referrer": "github.com",
