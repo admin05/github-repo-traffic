@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-01T01:52:02Z",
+  "collected_at": "2026-09-02T01:04:43Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -370,6 +370,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 78
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 78
     }
   ],
   "languages": {},
@@ -441,8 +449,8 @@
       0,
       0,
       0,
-      1,
-      1,
+      2,
+      0,
       0,
       0,
       0,
@@ -794,6 +802,11 @@
         "timestamp": "2026-08-30T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1081,6 +1094,11 @@
         "timestamp": "2026-08-30T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -1488,6 +1506,30 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-02",
+        "captured_at": "2026-09-02T01:04:43Z",
+        "items": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/Herobrine镜像怪物-1.0.0.jar",
+            "title": "/blob/main/Herobrine镜像怪物-1.0.0.jar",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/README.md",
+            "title": "/blob/main/README.md",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1819,6 +1861,17 @@
       {
         "date": "2026-09-01",
         "captured_at": "2026-09-01T01:52:02Z",
+        "items": [
+          {
+            "referrer": "Baidu",
+            "count": 5,
+            "uniques": 2
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "captured_at": "2026-09-02T01:04:43Z",
         "items": [
           {
             "referrer": "Baidu",

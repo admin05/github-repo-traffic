@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-01T01:52:02Z",
+  "collected_at": "2026-09-02T01:04:43Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -365,6 +365,14 @@
     },
     {
       "date": "2026-09-01",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "open_issues_and_pulls": 0,
+      "size_kb": 15
+    },
+    {
+      "date": "2026-09-02",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
@@ -1451,6 +1459,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-02",
+        "captured_at": "2026-09-02T01:04:43Z",
+        "items": [
+          {
+            "path": "/admin05/Tour",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1662,6 +1682,11 @@
       {
         "date": "2026-09-01",
         "captured_at": "2026-09-01T01:52:02Z",
+        "items": []
+      },
+      {
+        "date": "2026-09-02",
+        "captured_at": "2026-09-02T01:04:43Z",
         "items": []
       }
     ]
