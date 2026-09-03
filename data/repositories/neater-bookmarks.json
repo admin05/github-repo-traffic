@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-02T01:04:43Z",
+  "collected_at": "2026-09-03T01:10:50Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -378,6 +378,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 231
+    },
+    {
+      "date": "2026-09-03",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 231
     }
   ],
   "languages": {
@@ -454,8 +462,8 @@
       0,
       0,
       0,
-      0,
       1,
+      0,
       0,
       0,
       0,
@@ -469,8 +477,8 @@
       0,
       0,
       0,
-      1,
-      4
+      5,
+      0
     ],
     "owner": [
       0,
@@ -818,6 +826,11 @@
         "timestamp": "2026-08-31T00:00:00Z",
         "count": 4,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1108,6 +1121,11 @@
       },
       {
         "timestamp": "2026-08-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-01T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -1528,6 +1546,30 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-03",
+        "captured_at": "2026-09-03T01:10:50Z",
+        "items": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 4,
+            "uniques": 2
+          },
+          {
+            "path": "/admin05/neater-bookmarks/actions",
+            "title": "/actions",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/neater-bookmarks/pulls",
+            "title": "/pulls",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1900,6 +1942,17 @@
       {
         "date": "2026-09-02",
         "captured_at": "2026-09-02T01:04:43Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 6,
+            "uniques": 2
+          }
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "captured_at": "2026-09-03T01:10:50Z",
         "items": [
           {
             "referrer": "github.com",
