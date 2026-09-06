@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-05T01:04:24Z",
+  "collected_at": "2026-09-06T01:03:42Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -402,6 +402,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 274428
+    },
+    {
+      "date": "2026-09-06",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 274428
     }
   ],
   "languages": {
@@ -473,8 +481,8 @@
       0,
       0,
       0,
-      1,
-      19,
+      14,
+      6,
       0,
       7,
       6,
@@ -527,8 +535,8 @@
       0,
       0,
       0,
-      0,
-      14,
+      13,
+      1,
       0,
       0,
       0,
@@ -850,6 +858,11 @@
         "timestamp": "2026-09-03T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1157,6 +1170,11 @@
         "timestamp": "2026-09-03T00:00:00Z",
         "count": 4,
         "uniques": 4
+      },
+      {
+        "timestamp": "2026-09-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -1515,6 +1533,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-06",
+        "captured_at": "2026-09-06T01:03:42Z",
+        "items": [
+          {
+            "path": "/admin05/cpp-exam-generator",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1746,6 +1776,11 @@
       {
         "date": "2026-09-05",
         "captured_at": "2026-09-05T01:04:24Z",
+        "items": []
+      },
+      {
+        "date": "2026-09-06",
+        "captured_at": "2026-09-06T01:03:42Z",
         "items": []
       }
     ]
