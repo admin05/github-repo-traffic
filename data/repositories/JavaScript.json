@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-07T01:06:02Z",
+  "collected_at": "2026-09-08T01:14:29Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -413,6 +413,14 @@
     },
     {
       "date": "2026-09-07",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "open_issues_and_pulls": 0,
+      "size_kb": 5
+    },
+    {
+      "date": "2026-09-08",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
@@ -1593,6 +1601,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-08",
+        "captured_at": "2026-09-08T01:14:29Z",
+        "items": [
+          {
+            "path": "/admin05/JavaScript/pulse",
+            "title": "/pulse",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -1834,6 +1854,11 @@
       {
         "date": "2026-09-07",
         "captured_at": "2026-09-07T01:06:02Z",
+        "items": []
+      },
+      {
+        "date": "2026-09-08",
+        "captured_at": "2026-09-08T01:14:29Z",
         "items": []
       }
     ]
