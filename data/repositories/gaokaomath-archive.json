@@ -20,8 +20,8 @@
     "topics": [],
     "license": "CC-BY-4.0",
     "created_at": "2026-07-15T08:21:13Z",
-    "updated_at": "2026-08-26T22:11:50Z",
-    "pushed_at": "2026-08-26T21:49:45Z",
+    "updated_at": "2026-09-08T21:51:01Z",
+    "pushed_at": "2026-09-08T21:50:11Z",
     "size_kb": 328771,
     "stars": 0,
     "forks": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-08T01:14:29Z",
+  "collected_at": "2026-09-09T01:17:11Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -426,6 +426,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 328771
+    },
+    {
+      "date": "2026-09-09",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 328771
     }
   ],
   "languages": {},
@@ -508,13 +516,13 @@
       0,
       0,
       3,
-      1,
-      4,
-      4,
-      1,
+      2,
+      3,
       4,
       2,
-      0
+      4,
+      1,
+      1
     ],
     "owner": [
       0,
@@ -887,6 +895,16 @@
         "timestamp": "2026-09-05T00:00:00Z",
         "count": 2,
         "uniques": 2
+      },
+      {
+        "timestamp": "2026-09-06T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-07T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1202,6 +1220,16 @@
       },
       {
         "timestamp": "2026-09-05T00:00:00Z",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "timestamp": "2026-09-06T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-07T00:00:00Z",
         "count": 3,
         "uniques": 3
       }
@@ -1659,6 +1687,24 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-09",
+        "captured_at": "2026-09-09T01:17:11Z",
+        "items": [
+          {
+            "path": "/admin05/gaokaomath-archive",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/gaokaomath-archive/blob/main/普通高考/2005/2005辽宁.pdf",
+            "title": "/blob/main/普通高考/2005/2005辽宁.pdf",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -2072,6 +2118,22 @@
       {
         "date": "2026-09-08",
         "captured_at": "2026-09-08T01:14:29Z",
+        "items": [
+          {
+            "referrer": "Bing",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "captured_at": "2026-09-09T01:17:11Z",
         "items": [
           {
             "referrer": "Bing",
