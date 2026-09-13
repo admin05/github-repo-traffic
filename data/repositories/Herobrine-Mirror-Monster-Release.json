@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-12T01:12:57Z",
+  "collected_at": "2026-09-13T01:07:20Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -453,6 +453,14 @@
     },
     {
       "date": "2026-09-12",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 78
+    },
+    {
+      "date": "2026-09-13",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -937,6 +945,11 @@
         "timestamp": "2026-09-10T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1277,6 +1290,11 @@
       },
       {
         "timestamp": "2026-09-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -2016,6 +2034,48 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-13",
+        "captured_at": "2026-09-13T01:07:20Z",
+        "items": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 6,
+            "uniques": 3
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/Herobrine镜像怪物-1.0.0.jar",
+            "title": "/blob/main/Herobrine镜像怪物-1.0.0.jar",
+            "count": 6,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/tree/main",
+            "title": "/tree/main",
+            "count": 3,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/issues",
+            "title": "/issues",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/compare",
+            "title": "/compare",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/pulls",
+            "title": "/pulls",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -2468,6 +2528,17 @@
       {
         "date": "2026-09-12",
         "captured_at": "2026-09-12T01:12:57Z",
+        "items": [
+          {
+            "referrer": "Baidu",
+            "count": 5,
+            "uniques": 2
+          }
+        ]
+      },
+      {
+        "date": "2026-09-13",
+        "captured_at": "2026-09-13T01:07:20Z",
         "items": [
           {
             "referrer": "Baidu",

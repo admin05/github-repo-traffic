@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-12T01:12:57Z",
+  "collected_at": "2026-09-13T01:07:20Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -453,6 +453,14 @@
     },
     {
       "date": "2026-09-12",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 231
+    },
+    {
+      "date": "2026-09-13",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -948,6 +956,11 @@
         "timestamp": "2026-09-10T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1288,6 +1301,11 @@
       },
       {
         "timestamp": "2026-09-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-11T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -1948,6 +1966,30 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-13",
+        "captured_at": "2026-09-13T01:07:20Z",
+        "items": [
+          {
+            "path": "/admin05/neater-bookmarks",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/neater-bookmarks/actions",
+            "title": "/actions",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/neater-bookmarks/pulls",
+            "title": "/pulls",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -2430,6 +2472,17 @@
       {
         "date": "2026-09-12",
         "captured_at": "2026-09-12T01:12:57Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 4,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-09-13",
+        "captured_at": "2026-09-13T01:07:20Z",
         "items": [
           {
             "referrer": "github.com",
