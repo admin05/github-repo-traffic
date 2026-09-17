@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-09-16T01:28:30Z",
+  "generated_at": "2026-09-17T01:30:36Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -78,8 +78,8 @@
         0,
         0,
         0,
-        0,
-        32,
+        2,
+        30,
         0,
         0,
         0,
@@ -234,8 +234,8 @@
           "uniques": 17
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -451,8 +451,8 @@
         0,
         0,
         8,
-        8,
-        3,
+        10,
+        1,
         0,
         0,
         0,
@@ -481,12 +481,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 269,
-          "uniques": 175
+          "count": 270,
+          "uniques": 176
         },
         "clones_14d": {
-          "count": 162,
-          "uniques": 99
+          "count": 163,
+          "uniques": 100
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -514,9 +514,9 @@
       "topics": [],
       "license": null,
       "created_at": "2026-05-29T01:51:21Z",
-      "updated_at": "2026-09-16T00:48:40Z",
-      "pushed_at": "2026-09-16T01:02:59Z",
-      "size_kb": 274677,
+      "updated_at": "2026-09-16T09:46:03Z",
+      "pushed_at": "2026-09-16T09:45:55Z",
+      "size_kb": 297481,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -527,8 +527,8 @@
       "has_pages": false,
       "has_discussions": false,
       "languages": {
-        "Python": 1767258,
-        "CSS": 9728,
+        "Python": 2313958,
+        "CSS": 10431,
         "Dockerfile": 442
       },
       "participation_52_weeks": [
@@ -571,19 +571,19 @@
         15,
         5,
         7,
-        1,
-        5,
+        6,
+        0,
         1,
         0,
         0,
         0,
         5,
         8,
-        1,
-        8,
-        14,
+        3,
+        7,
+        13,
         0,
-        6
+        13
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -603,12 +603,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 147,
-          "uniques": 99
+          "count": 174,
+          "uniques": 115
         },
         "clones_14d": {
-          "count": 11,
-          "uniques": 11
+          "count": 34,
+          "uniques": 23
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -807,8 +807,8 @@
         0,
         0,
         0,
-        0,
         13,
+        0,
         0,
         0,
         0,
@@ -843,12 +843,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 19,
-          "uniques": 18
+          "count": 20,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 4
+          "count": 6,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -963,12 +963,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 18,
-          "uniques": 18
+          "count": 19,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1052,14 +1052,14 @@
         0,
         0,
         0,
-        0,
         3,
-        2,
-        3,
-        4,
-        2,
-        4,
         1,
+        2,
+        2,
+        4,
+        3,
+        4,
+        0,
         1,
         0
       ],
@@ -1081,12 +1081,12 @@
           "uniques": 2
         },
         "clones_all_time": {
-          "count": 161,
-          "uniques": 132
+          "count": 163,
+          "uniques": 134
         },
         "clones_14d": {
-          "count": 18,
-          "uniques": 18
+          "count": 19,
+          "uniques": 19
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1138,9 +1138,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-09-15T01:34:55Z",
-      "pushed_at": "2026-09-15T01:34:51Z",
-      "size_kb": 357,
+      "updated_at": "2026-09-16T01:29:40Z",
+      "pushed_at": "2026-09-16T01:29:36Z",
+      "size_kb": 363,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1198,13 +1198,13 @@
         0,
         0,
         0,
-        10,
+        11,
         7,
         7,
         7,
         8,
-        7,
         6,
+        7,
         7,
         7
       ],
@@ -1226,12 +1226,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 474,
-          "uniques": 327
+          "count": 479,
+          "uniques": 330
         },
         "clones_14d": {
-          "count": 107,
-          "uniques": 67
+          "count": 111,
+          "uniques": 69
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1344,8 +1344,8 @@
           "uniques": 3
         },
         "clones_all_time": {
-          "count": 15,
-          "uniques": 15
+          "count": 16,
+          "uniques": 16
         },
         "clones_14d": {
           "count": 3,
@@ -1354,16 +1354,16 @@
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
           {
-            "path": "/admin05/Herobrine-Mirror-Monster-Release",
-            "title": "Overview",
-            "count": 6,
-            "uniques": 3
-          },
-          {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/Herobrine镜像怪物-1.0.0.jar",
             "title": "/blob/main/Herobrine镜像怪物-1.0.0.jar",
             "count": 6,
             "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 5,
+            "uniques": 2
           },
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/tree/main",
@@ -1484,8 +1484,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         1,
         0
       ],
@@ -1507,8 +1507,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 21,
-          "uniques": 19
+          "count": 22,
+          "uniques": 20
         },
         "clones_14d": {
           "count": 7,
@@ -1628,12 +1628,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 9,
-          "uniques": 9
+          "count": 10,
+          "uniques": 10
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1836,8 +1836,8 @@
         0,
         0,
         0,
-        0,
-        8,
+        7,
+        1,
         7,
         0,
         0,
@@ -1882,15 +1882,15 @@
           {
             "path": "/admin05/music163",
             "title": "Overview",
-            "count": 2,
-            "uniques": 2
+            "count": 1,
+            "uniques": 1
           }
         ],
         "latest_popular_referrers": [
           {
             "referrer": "Baidu",
-            "count": 2,
-            "uniques": 2
+            "count": 1,
+            "uniques": 1
           }
         ]
       },
@@ -1967,8 +1967,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1982,8 +1982,8 @@
         0,
         0,
         0,
-        1,
-        4,
+        5,
+        0,
         0,
         0
       ],
@@ -2005,12 +2005,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 46,
-          "uniques": 40
+          "count": 48,
+          "uniques": 42
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2088,8 +2088,8 @@
         0,
         0,
         0,
-        0,
-        20,
+        1,
+        19,
         3,
         1,
         3,
@@ -2214,8 +2214,8 @@
         0,
         0,
         0,
-        2,
-        1,
+        3,
+        0,
         0,
         0,
         0,
@@ -2245,12 +2245,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 26,
-          "uniques": 25
+          "count": 27,
+          "uniques": 26
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2334,8 +2334,8 @@
         0,
         0,
         0,
-        8,
-        3,
+        9,
+        2,
         0,
         0,
         0,
@@ -2361,16 +2361,16 @@
           "uniques": 4
         },
         "views_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 0,
+          "uniques": 0
         },
         "clones_all_time": {
-          "count": 28,
-          "uniques": 26
+          "count": 29,
+          "uniques": 27
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2619,12 +2619,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 9,
-          "uniques": 9
+          "count": 10,
+          "uniques": 10
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2739,12 +2739,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 18,
-          "uniques": 18
+          "count": 19,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2859,12 +2859,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 11,
-          "uniques": 11
+          "count": 12,
+          "uniques": 12
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2979,8 +2979,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 16,
-          "uniques": 16
+          "count": 17,
+          "uniques": 17
         },
         "clones_14d": {
           "count": 4,
@@ -3305,8 +3305,8 @@
         0,
         0,
         2,
-        0,
-        26,
+        6,
+        20,
         8,
         0,
         0,
@@ -3339,12 +3339,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 17,
-          "uniques": 13
+          "count": 18,
+          "uniques": 14
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
