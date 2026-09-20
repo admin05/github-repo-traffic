@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-19T01:16:34Z",
+  "collected_at": "2026-09-20T01:17:05Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -514,6 +514,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 328771
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 328771
     }
   ],
   "languages": {},
@@ -596,8 +604,8 @@
       3,
       1,
       4,
-      2,
-      2,
+      3,
+      1,
       4,
       3,
       0,
@@ -1035,6 +1043,11 @@
         "timestamp": "2026-09-17T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-09-18T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1412,6 +1425,11 @@
         "timestamp": "2026-09-17T00:00:00Z",
         "count": 4,
         "uniques": 3
+      },
+      {
+        "timestamp": "2026-09-18T00:00:00Z",
+        "count": 2,
+        "uniques": 2
       }
     ],
     "popular_paths": [
@@ -2065,6 +2083,24 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-20",
+        "captured_at": "2026-09-20T01:17:05Z",
+        "items": [
+          {
+            "path": "/admin05/gaokaomath-archive",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/gaokaomath-archive/blob/main/普通高考/2005/2005辽宁.pdf",
+            "title": "/blob/main/普通高考/2005/2005辽宁.pdf",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -2654,6 +2690,22 @@
       {
         "date": "2026-09-19",
         "captured_at": "2026-09-19T01:16:34Z",
+        "items": [
+          {
+            "referrer": "Bing",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-09-20",
+        "captured_at": "2026-09-20T01:17:05Z",
         "items": [
           {
             "referrer": "Bing",

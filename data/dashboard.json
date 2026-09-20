@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-09-19T01:16:34Z",
+  "generated_at": "2026-09-20T01:17:05Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -78,8 +78,8 @@
         0,
         0,
         0,
-        26,
-        6,
+        32,
+        0,
         0,
         0,
         0,
@@ -110,12 +110,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 24,
-          "uniques": 22
+          "count": 25,
+          "uniques": 23
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 2
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -230,12 +230,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 18,
-          "uniques": 18
+          "count": 19,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -354,8 +354,8 @@
           "uniques": 12
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -460,8 +460,8 @@
         0,
         0,
         3,
-        20,
-        10
+        30,
+        0
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -481,12 +481,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 272,
-          "uniques": 178
+          "count": 274,
+          "uniques": 180
         },
         "clones_14d": {
-          "count": 165,
-          "uniques": 102
+          "count": 130,
+          "uniques": 83
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -567,8 +567,8 @@
         0,
         0,
         0,
-        1,
-        19,
+        14,
+        6,
         0,
         7,
         6,
@@ -582,8 +582,8 @@
         6,
         8,
         9,
-        0,
-        13
+        1,
+        12
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -603,8 +603,8 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 207,
-          "uniques": 129
+          "count": 208,
+          "uniques": 130
         },
         "clones_14d": {
           "count": 66,
@@ -861,8 +861,8 @@
           "uniques": 19
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 5
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1069,8 +1069,8 @@
         3,
         1,
         4,
-        2,
-        2,
+        3,
+        1,
         4,
         3,
         0,
@@ -1095,12 +1095,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 168,
-          "uniques": 138
+          "count": 170,
+          "uniques": 140
         },
         "clones_14d": {
-          "count": 20,
-          "uniques": 19
+          "count": 21,
+          "uniques": 20
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1152,9 +1152,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-09-18T01:20:15Z",
-      "pushed_at": "2026-09-18T01:20:11Z",
-      "size_kb": 375,
+      "updated_at": "2026-09-19T01:17:47Z",
+      "pushed_at": "2026-09-19T01:17:44Z",
+      "size_kb": 381,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1212,7 +1212,7 @@
         0,
         0,
         0,
-        13,
+        14,
         7,
         8,
         7,
@@ -1240,12 +1240,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 490,
-          "uniques": 337
+          "count": 494,
+          "uniques": 339
         },
         "clones_14d": {
-          "count": 110,
-          "uniques": 68
+          "count": 108,
+          "uniques": 66
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1350,34 +1350,34 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 25,
-          "uniques": 7
+          "count": 26,
+          "uniques": 8
         },
         "views_14d": {
           "count": 18,
           "uniques": 3
         },
         "clones_all_time": {
-          "count": 16,
-          "uniques": 16
+          "count": 17,
+          "uniques": 17
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 6,
+            "uniques": 3
+          },
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/Herobrine镜像怪物-1.0.0.jar",
             "title": "/blob/main/Herobrine镜像怪物-1.0.0.jar",
             "count": 6,
             "uniques": 1
-          },
-          {
-            "path": "/admin05/Herobrine-Mirror-Monster-Release",
-            "title": "Overview",
-            "count": 5,
-            "uniques": 2
           },
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/tree/main",
@@ -1407,8 +1407,8 @@
         "latest_popular_referrers": [
           {
             "referrer": "Baidu",
-            "count": 5,
-            "uniques": 2
+            "count": 6,
+            "uniques": 3
           }
         ]
       },
@@ -1737,8 +1737,8 @@
         0,
         0,
         0,
-        6,
-        6,
+        11,
+        1,
         0,
         0,
         0,
@@ -1888,8 +1888,8 @@
           "uniques": 18
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2139,12 +2139,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 59,
-          "uniques": 53
+          "count": 80,
+          "uniques": 67
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 22,
+          "uniques": 15
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2379,12 +2379,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 29,
-          "uniques": 27
+          "count": 30,
+          "uniques": 28
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2740,12 +2740,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 19,
-          "uniques": 19
+          "count": 20,
+          "uniques": 20
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2943,8 +2943,8 @@
         0,
         0,
         0,
-        0,
-        6,
+        4,
+        2,
         0,
         0,
         1,
@@ -3306,8 +3306,8 @@
         0,
         0,
         2,
-        16,
-        18,
+        19,
+        15,
         0,
         0,
         0,
@@ -3344,8 +3344,8 @@
           "uniques": 15
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
