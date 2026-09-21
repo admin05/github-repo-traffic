@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-09-20T01:17:05Z",
+  "generated_at": "2026-09-21T01:12:31Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -114,8 +114,8 @@
           "uniques": 23
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -234,8 +234,8 @@
           "uniques": 19
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -450,8 +450,8 @@
         0,
         0,
         0,
-        10,
-        9,
+        11,
+        8,
         0,
         0,
         0,
@@ -459,8 +459,8 @@
         0,
         0,
         0,
-        3,
-        30,
+        11,
+        22,
         0
       ],
       "community_health_percentage": 14,
@@ -481,12 +481,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 274,
-          "uniques": 180
+          "count": 276,
+          "uniques": 182
         },
         "clones_14d": {
-          "count": 130,
-          "uniques": 83
+          "count": 116,
+          "uniques": 75
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -567,10 +567,10 @@
         0,
         0,
         0,
-        14,
-        6,
-        0,
-        7,
+        15,
+        5,
+        4,
+        3,
         6,
         1,
         0,
@@ -580,8 +580,8 @@
         5,
         8,
         6,
-        8,
-        9,
+        15,
+        2,
         1,
         12
       ],
@@ -603,12 +603,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 208,
-          "uniques": 130
+          "count": 209,
+          "uniques": 131
         },
         "clones_14d": {
-          "count": 66,
-          "uniques": 36
+          "count": 65,
+          "uniques": 35
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -981,8 +981,8 @@
           "uniques": 20
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1095,40 +1095,16 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 170,
-          "uniques": 140
+          "count": 173,
+          "uniques": 143
         },
         "clones_14d": {
           "count": 21,
           "uniques": 20
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/gaokaomath-archive",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          },
-          {
-            "path": "/admin05/gaokaomath-archive/blob/main/普通高考/2005/2005辽宁.pdf",
-            "title": "/blob/main/普通高考/2005/2005辽宁.pdf",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "Bing",
-            "count": 1,
-            "uniques": 1
-          },
-          {
-            "referrer": "github.com",
-            "count": 1,
-            "uniques": 1
-          }
-        ]
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/gaokaomath-archive.json",
       "collection_errors": []
@@ -1152,9 +1128,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-09-19T01:17:47Z",
-      "pushed_at": "2026-09-19T01:17:44Z",
-      "size_kb": 381,
+      "updated_at": "2026-09-20T01:18:17Z",
+      "pushed_at": "2026-09-20T01:18:14Z",
+      "size_kb": 387,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1212,7 +1188,7 @@
         0,
         0,
         0,
-        14,
+        15,
         7,
         8,
         7,
@@ -1240,12 +1216,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 494,
-          "uniques": 339
+          "count": 511,
+          "uniques": 349
         },
         "clones_14d": {
-          "count": 108,
-          "uniques": 66
+          "count": 119,
+          "uniques": 72
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1362,8 +1338,8 @@
           "uniques": 17
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1525,8 +1501,8 @@
           "uniques": 20
         },
         "clones_14d": {
-          "count": 7,
-          "uniques": 5
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1736,9 +1712,9 @@
         0,
         0,
         0,
-        0,
-        11,
         1,
+        11,
+        0,
         0,
         0,
         0,
@@ -1888,8 +1864,8 @@
           "uniques": 18
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1988,8 +1964,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -2139,12 +2115,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 80,
-          "uniques": 67
+          "count": 83,
+          "uniques": 70
         },
         "clones_14d": {
-          "count": 22,
-          "uniques": 15
+          "count": 24,
+          "uniques": 17
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2263,8 +2239,8 @@
           "uniques": 28
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2379,11 +2355,11 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 30,
-          "uniques": 28
+          "count": 32,
+          "uniques": 29
         },
         "clones_14d": {
-          "count": 5,
+          "count": 6,
           "uniques": 5
         },
         "first_archived_date": "2026-07-05",
@@ -2744,8 +2720,8 @@
           "uniques": 20
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3304,8 +3280,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         19,
         15,
         0,
