@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-09-23T01:32:53Z",
+  "generated_at": "2026-09-24T01:28:50Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -77,8 +77,8 @@
         0,
         0,
         0,
-        0,
-        32,
+        2,
+        30,
         0,
         0,
         0,
@@ -350,22 +350,15 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 12,
-          "uniques": 12
+          "count": 13,
+          "uniques": 13
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/Batch/blob/master/README.md",
-            "title": "/blob/master/README.md",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Batch.json",
@@ -450,8 +443,8 @@
         0,
         0,
         8,
-        8,
-        3,
+        10,
+        1,
         0,
         0,
         0,
@@ -481,8 +474,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 277,
-          "uniques": 183
+          "count": 278,
+          "uniques": 184
         },
         "clones_14d": {
           "count": 51,
@@ -570,20 +563,20 @@
         15,
         5,
         7,
-        1,
-        5,
-        1,
-        0,
-        0,
-        0,
-        5,
-        8,
-        1,
-        8,
-        14,
-        0,
         6,
-        7
+        0,
+        1,
+        0,
+        0,
+        0,
+        5,
+        8,
+        3,
+        7,
+        13,
+        0,
+        13,
+        0
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -603,12 +596,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 210,
-          "uniques": 132
+          "count": 211,
+          "uniques": 133
         },
         "clones_14d": {
-          "count": 65,
-          "uniques": 35
+          "count": 66,
+          "uniques": 36
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -730,12 +723,12 @@
           "uniques": 3
         },
         "clones_all_time": {
-          "count": 7,
-          "uniques": 7
+          "count": 8,
+          "uniques": 8
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -820,8 +813,8 @@
         0,
         0,
         0,
-        0,
         13,
+        0,
         0,
         0,
         0,
@@ -1065,14 +1058,14 @@
         0,
         0,
         0,
-        0,
         3,
-        2,
-        3,
-        4,
-        2,
-        4,
         1,
+        2,
+        2,
+        4,
+        3,
+        4,
+        0,
         1,
         0,
         0
@@ -1095,8 +1088,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 176,
-          "uniques": 146
+          "count": 177,
+          "uniques": 147
         },
         "clones_14d": {
           "count": 20,
@@ -1128,9 +1121,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-09-22T01:39:54Z",
-      "pushed_at": "2026-09-22T01:39:51Z",
-      "size_kb": 399,
+      "updated_at": "2026-09-23T01:34:22Z",
+      "pushed_at": "2026-09-23T01:34:19Z",
+      "size_kb": 405,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1187,13 +1180,13 @@
         0,
         0,
         0,
-        10,
+        11,
         7,
         7,
         7,
         8,
-        7,
         6,
+        7,
         7,
         7,
         7
@@ -1216,12 +1209,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 522,
-          "uniques": 356
+          "count": 535,
+          "uniques": 363
         },
         "clones_14d": {
-          "count": 109,
-          "uniques": 66
+          "count": 108,
+          "uniques": 65
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1326,65 +1319,47 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 29,
-          "uniques": 9
+          "count": 30,
+          "uniques": 10
         },
         "views_14d": {
-          "count": 4,
-          "uniques": 2
+          "count": 5,
+          "uniques": 3
         },
         "clones_all_time": {
-          "count": 18,
-          "uniques": 18
+          "count": 19,
+          "uniques": 19
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release",
             "title": "Overview",
-            "count": 6,
-            "uniques": 3
-          },
-          {
-            "path": "/admin05/Herobrine-Mirror-Monster-Release/blob/main/Herobrine镜像怪物-1.0.0.jar",
-            "title": "/blob/main/Herobrine镜像怪物-1.0.0.jar",
-            "count": 6,
-            "uniques": 1
-          },
-          {
-            "path": "/admin05/Herobrine-Mirror-Monster-Release/tree/main",
-            "title": "/tree/main",
-            "count": 3,
-            "uniques": 1
+            "count": 4,
+            "uniques": 4
           },
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/compare",
             "title": "/compare",
-            "count": 2,
-            "uniques": 2
+            "count": 1,
+            "uniques": 1
           },
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release/pulls",
             "title": "/pulls",
-            "count": 2,
-            "uniques": 2
-          },
-          {
-            "path": "/admin05/Herobrine-Mirror-Monster-Release/issues",
-            "title": "/issues",
-            "count": 2,
+            "count": 1,
             "uniques": 1
           }
         ],
         "latest_popular_referrers": [
           {
             "referrer": "Baidu",
-            "count": 6,
-            "uniques": 3
+            "count": 4,
+            "uniques": 4
           }
         ]
       },
@@ -1473,8 +1448,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         1,
         0,
         0
@@ -1618,12 +1593,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 11,
-          "uniques": 11
+          "count": 12,
+          "uniques": 12
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1738,8 +1713,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 42,
-          "uniques": 34
+          "count": 43,
+          "uniques": 35
         },
         "clones_14d": {
           "count": 2,
@@ -1825,8 +1800,8 @@
         0,
         0,
         0,
-        0,
-        8,
+        7,
+        1,
         7,
         0,
         0,
@@ -1956,8 +1931,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1971,8 +1946,8 @@
         0,
         0,
         0,
-        1,
-        4,
+        5,
+        0,
         0,
         0,
         0
@@ -1995,12 +1970,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 49,
-          "uniques": 43
+          "count": 50,
+          "uniques": 44
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2077,8 +2052,8 @@
         0,
         0,
         0,
-        0,
-        20,
+        1,
+        19,
         3,
         1,
         3,
@@ -2203,8 +2178,8 @@
         0,
         0,
         0,
-        2,
-        1,
+        3,
+        0,
         0,
         0,
         0,
@@ -2323,8 +2298,8 @@
         0,
         0,
         0,
-        8,
-        3,
+        9,
+        2,
         0,
         0,
         0,
@@ -2716,12 +2691,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 21,
-          "uniques": 21
+          "count": 22,
+          "uniques": 22
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2960,8 +2935,8 @@
           "uniques": 19
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3281,8 +3256,8 @@
         0,
         0,
         2,
-        0,
-        26,
+        6,
+        20,
         8,
         0,
         0,
