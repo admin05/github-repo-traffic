@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-24T01:28:50Z",
+  "collected_at": "2026-09-25T01:36:51Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -549,6 +549,14 @@
     },
     {
       "date": "2026-09-24",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 78
+    },
+    {
+      "date": "2026-09-25",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1093,6 +1101,11 @@
         "timestamp": "2026-09-22T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1495,6 +1508,11 @@
         "timestamp": "2026-09-22T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-09-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -2718,6 +2736,30 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-25",
+        "captured_at": "2026-09-25T01:36:51Z",
+        "items": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 3,
+            "uniques": 3
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/compare",
+            "title": "/compare",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release/pulls",
+            "title": "/pulls",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -3307,6 +3349,17 @@
             "referrer": "Baidu",
             "count": 4,
             "uniques": 4
+          }
+        ]
+      },
+      {
+        "date": "2026-09-25",
+        "captured_at": "2026-09-25T01:36:51Z",
+        "items": [
+          {
+            "referrer": "Baidu",
+            "count": 3,
+            "uniques": 3
           }
         ]
       }
