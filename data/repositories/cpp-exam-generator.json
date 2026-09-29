@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-09-28T01:44:54Z",
+  "collected_at": "2026-09-29T02:36:12Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -586,6 +586,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 297481
+    },
+    {
+      "date": "2026-09-29",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 297481
     }
   ],
   "languages": {
@@ -656,18 +664,18 @@
       0,
       15,
       5,
-      4,
-      3,
+      7,
+      0,
       6,
       1,
       0,
       0,
       0,
       0,
-      5,
-      8,
-      6,
-      15,
+      10,
+      3,
+      9,
+      12,
       2,
       1,
       12,
@@ -2112,6 +2120,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-09-29",
+        "captured_at": "2026-09-29T02:36:12Z",
+        "items": [
+          {
+            "path": "/admin05/cpp-exam-generator",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -2458,6 +2478,11 @@
       {
         "date": "2026-09-28",
         "captured_at": "2026-09-28T01:44:54Z",
+        "items": []
+      },
+      {
+        "date": "2026-09-29",
+        "captured_at": "2026-09-29T02:36:12Z",
         "items": []
       }
     ]
