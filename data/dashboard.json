@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-10-06T03:06:19Z",
+  "generated_at": "2026-10-07T02:27:40Z",
   "repository_count": 27,
   "repositories": [
     {
@@ -114,8 +114,8 @@
           "uniques": 30
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -195,8 +195,8 @@
         0,
         0,
         0,
-        4,
-        1,
+        5,
+        0,
         0,
         0,
         0,
@@ -441,17 +441,17 @@
         0,
         0,
         8,
-        3,
         8,
+        3,
         0,
         0,
         0,
         0,
         0,
         0,
-        2,
-        13,
-        18,
+        3,
+        20,
+        10,
         0,
         0,
         0
@@ -478,8 +478,8 @@
           "uniques": 192
         },
         "clones_14d": {
-          "count": 8,
-          "uniques": 8
+          "count": 7,
+          "uniques": 7
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -561,20 +561,20 @@
         15,
         5,
         7,
+        1,
+        5,
+        1,
+        0,
+        0,
+        0,
+        5,
+        8,
+        1,
+        8,
+        14,
         0,
         6,
-        1,
-        0,
-        0,
-        0,
-        0,
-        10,
-        3,
-        9,
-        12,
-        2,
-        1,
-        12,
+        7,
         0,
         0
       ],
@@ -600,8 +600,8 @@
           "uniques": 147
         },
         "clones_14d": {
-          "count": 16,
-          "uniques": 14
+          "count": 10,
+          "uniques": 10
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -724,14 +724,7 @@
           "uniques": 6
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/dotfiles/blob/master/README.md",
-            "title": "/blob/master/README.md",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/dotfiles.json",
@@ -843,12 +836,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 27,
-          "uniques": 26
+          "count": 28,
+          "uniques": 27
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -928,8 +921,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -963,12 +956,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 27,
-          "uniques": 27
+          "count": 28,
+          "uniques": 28
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1051,14 +1044,14 @@
         0,
         0,
         3,
-        1,
-        4,
-        4,
-        1,
+        2,
+        3,
         4,
         2,
-        0,
+        4,
         1,
+        1,
+        0,
         0,
         1,
         0
@@ -1081,8 +1074,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 215,
-          "uniques": 179
+          "count": 216,
+          "uniques": 180
         },
         "clones_14d": {
           "count": 38,
@@ -1114,9 +1107,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-10-05T02:05:54Z",
-      "pushed_at": "2026-10-05T02:05:51Z",
-      "size_kb": 474,
+      "updated_at": "2026-10-06T03:07:31Z",
+      "pushed_at": "2026-10-06T03:07:28Z",
+      "size_kb": 480,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1171,11 +1164,11 @@
         0,
         0,
         0,
-        9,
+        10,
+        7,
         7,
         7,
         8,
-        7,
         7,
         6,
         7,
@@ -1202,12 +1195,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 691,
-          "uniques": 463
+          "count": 698,
+          "uniques": 467
         },
         "clones_14d": {
-          "count": 156,
-          "uniques": 100
+          "count": 149,
+          "uniques": 96
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1285,8 +1278,8 @@
         0,
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         0,
         0,
         0,
@@ -1414,13 +1407,13 @@
         0,
         0,
         0,
+        3,
+        0,
         1,
+        0,
+        0,
         2,
         1,
-        0,
-        0,
-        0,
-        3,
         0,
         0,
         0,
@@ -1453,8 +1446,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 29,
-          "uniques": 27
+          "count": 30,
+          "uniques": 28
         },
         "clones_14d": {
           "count": 6,
@@ -1816,8 +1809,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 26,
-          "uniques": 26
+          "count": 27,
+          "uniques": 27
         },
         "clones_14d": {
           "count": 7,
@@ -1938,8 +1931,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 55,
-          "uniques": 49
+          "count": 56,
+          "uniques": 50
         },
         "clones_14d": {
           "count": 5,
@@ -2019,13 +2012,13 @@
         0,
         0,
         0,
-        17,
-        4,
+        20,
         3,
-        0,
+        1,
         3,
         0,
         2,
+        0,
         1,
         0,
         0,
@@ -2062,8 +2055,8 @@
           "uniques": 82
         },
         "clones_14d": {
-          "count": 10,
-          "uniques": 10
+          "count": 9,
+          "uniques": 9
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2144,8 +2137,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        2,
+        1,
         0,
         0,
         0,
@@ -2182,8 +2175,8 @@
           "uniques": 34
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2264,8 +2257,8 @@
         0,
         0,
         0,
-        0,
-        11,
+        8,
+        3,
         0,
         0,
         0,
@@ -2302,8 +2295,8 @@
           "uniques": 39
         },
         "clones_14d": {
-          "count": 11,
-          "uniques": 9
+          "count": 9,
+          "uniques": 7
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2507,8 +2500,8 @@
         0,
         0,
         0,
-        0,
         3,
+        0,
         0,
         0,
         0,
@@ -2546,12 +2539,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 14,
-          "uniques": 14
+          "count": 15,
+          "uniques": 15
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2670,8 +2663,8 @@
           "uniques": 27
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2867,11 +2860,11 @@
         0,
         0,
         0,
-        4,
-        2,
+        6,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -2910,8 +2903,8 @@
           "uniques": 26
         },
         "clones_14d": {
-          "count": 7,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3270,8 +3263,8 @@
           "uniques": 22
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
