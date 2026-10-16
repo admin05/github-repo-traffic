@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-10-15T01:33:23Z",
+  "generated_at": "2026-10-16T01:28:54Z",
   "repository_count": 28,
   "repositories": [
     {
@@ -74,8 +74,8 @@
         0,
         0,
         0,
-        2,
-        30,
+        14,
+        18,
         0,
         0,
         0,
@@ -446,8 +446,8 @@
         0,
         0,
         0,
-        8,
         10,
+        8,
         1,
         0,
         0,
@@ -564,19 +564,19 @@
         0,
         0,
         0,
-        15,
-        5,
+        20,
+        0,
         7,
         6,
-        0,
         1,
+        0,
         0,
         0,
         0,
         5,
         8,
-        3,
-        7,
+        5,
+        5,
         13,
         0,
         13,
@@ -607,8 +607,8 @@
           "uniques": 151
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1051,8 +1051,8 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
         0,
         0,
         0,
@@ -1179,8 +1179,8 @@
         0,
         3,
         1,
-        2,
-        2,
+        3,
+        1,
         4,
         3,
         4,
@@ -1210,12 +1210,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 229,
-          "uniques": 191
+          "count": 239,
+          "uniques": 196
         },
         "clones_14d": {
-          "count": 19,
-          "uniques": 17
+          "count": 27,
+          "uniques": 20
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1243,9 +1243,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-10-14T01:59:54Z",
-      "pushed_at": "2026-10-14T01:59:50Z",
-      "size_kb": 528,
+      "updated_at": "2026-10-15T01:35:00Z",
+      "pushed_at": "2026-10-15T01:34:56Z",
+      "size_kb": 536,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1299,7 +1299,7 @@
         0,
         0,
         0,
-        11,
+        12,
         7,
         7,
         7,
@@ -1331,12 +1331,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 823,
-          "uniques": 542
+          "count": 827,
+          "uniques": 544
         },
         "clones_14d": {
-          "count": 166,
-          "uniques": 101
+          "count": 149,
+          "uniques": 89
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [
@@ -1921,8 +1921,8 @@
         0,
         0,
         7,
-        1,
-        7,
+        8,
+        0,
         0,
         0,
         0,
@@ -2172,8 +2172,8 @@
         0,
         0,
         0,
-        1,
-        19,
+        11,
+        9,
         3,
         1,
         3,
@@ -2183,8 +2183,8 @@
         1,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -2217,8 +2217,8 @@
           "uniques": 87
         },
         "clones_14d": {
-          "count": 8,
-          "uniques": 8
+          "count": 7,
+          "uniques": 7
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2333,12 +2333,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 36,
-          "uniques": 35
+          "count": 37,
+          "uniques": 36
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2453,8 +2453,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 48,
-          "uniques": 40
+          "count": 49,
+          "uniques": 41
         },
         "clones_14d": {
           "count": 7,
@@ -2566,12 +2566,12 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 18,
@@ -2582,7 +2582,14 @@
           "uniques": 2
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/Python/blob/main/README.md",
+            "title": "/blob/main/README.md",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Python.json",
@@ -3376,8 +3383,8 @@
         0,
         0,
         2,
-        6,
-        20,
+        7,
+        19,
         8,
         0,
         0,
