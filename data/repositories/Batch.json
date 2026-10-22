@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-10-21T01:41:16Z",
+  "collected_at": "2026-10-22T01:36:16Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -770,6 +770,14 @@
       "watchers": 1,
       "open_issues_and_pulls": 0,
       "size_kb": 18
+    },
+    {
+      "date": "2026-10-22",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "open_issues_and_pulls": 0,
+      "size_kb": 18
     }
   ],
   "languages": {
@@ -1446,6 +1454,11 @@
         "timestamp": "2026-10-19T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-20T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -1981,6 +1994,11 @@
       },
       {
         "timestamp": "2026-10-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-20T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -2627,6 +2645,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-10-22",
+        "captured_at": "2026-10-22T01:36:16Z",
+        "items": [
+          {
+            "path": "/admin05/Batch/blob/master/通过curl批量获取网页状态码.bat",
+            "title": "/blob/master/通过curl批量获取网页状态码.bat",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -3088,6 +3118,11 @@
       {
         "date": "2026-10-21",
         "captured_at": "2026-10-21T01:41:16Z",
+        "items": []
+      },
+      {
+        "date": "2026-10-22",
+        "captured_at": "2026-10-22T01:36:16Z",
         "items": []
       }
     ]
