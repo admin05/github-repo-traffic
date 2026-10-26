@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-10-25T01:17:01Z",
+  "generated_at": "2026-10-26T01:18:42Z",
   "repository_count": 28,
   "repositories": [
     {
@@ -438,8 +438,8 @@
         0,
         0,
         0,
-        10,
-        9,
+        11,
+        8,
         0,
         0,
         0,
@@ -447,8 +447,8 @@
         0,
         0,
         0,
-        3,
-        30,
+        11,
+        22,
         0,
         0,
         0,
@@ -474,8 +474,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 300,
-          "uniques": 206
+          "count": 301,
+          "uniques": 207
         },
         "clones_14d": {
           "count": 6,
@@ -555,10 +555,10 @@
         0,
         0,
         0,
-        14,
-        6,
-        0,
-        7,
+        15,
+        5,
+        4,
+        3,
         6,
         1,
         0,
@@ -568,8 +568,8 @@
         5,
         8,
         6,
-        8,
-        9,
+        15,
+        2,
         1,
         12,
         0,
@@ -596,12 +596,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 234,
-          "uniques": 154
+          "count": 236,
+          "uniques": 156
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1096,8 +1096,8 @@
           "uniques": 36
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1186,8 +1186,8 @@
         0,
         1,
         0,
-        0,
         1,
+        0,
         0,
         1,
         0
@@ -1210,12 +1210,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 255,
-          "uniques": 212
+          "count": 257,
+          "uniques": 214
         },
         "clones_14d": {
-          "count": 30,
-          "uniques": 24
+          "count": 32,
+          "uniques": 26
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1243,9 +1243,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-10-24T01:42:37Z",
-      "pushed_at": "2026-10-24T01:42:34Z",
-      "size_kb": 591,
+      "updated_at": "2026-10-25T01:18:20Z",
+      "pushed_at": "2026-10-25T01:18:17Z",
+      "size_kb": 649,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1298,7 +1298,7 @@
         0,
         0,
         0,
-        14,
+        15,
         7,
         8,
         7,
@@ -1331,12 +1331,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 914,
-          "uniques": 600
+          "count": 920,
+          "uniques": 604
         },
         "clones_14d": {
-          "count": 130,
-          "uniques": 80
+          "count": 120,
+          "uniques": 74
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [
@@ -1458,8 +1458,8 @@
           "uniques": 13
         },
         "views_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 30,
@@ -1716,12 +1716,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 20,
-          "uniques": 20
+          "count": 22,
+          "uniques": 21
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1805,9 +1805,9 @@
         0,
         0,
         0,
-        0,
-        11,
         1,
+        11,
+        0,
         0,
         0,
         0,
@@ -1970,17 +1970,11 @@
           {
             "path": "/admin05/music163/blob/main/wecom_notify.py",
             "title": "/blob/main/wecom_notify.py",
-            "count": 2,
-            "uniques": 2
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "Baidu",
             "count": 1,
             "uniques": 1
           }
-        ]
+        ],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/music163.json",
       "collection_errors": []
@@ -2057,8 +2051,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -2333,12 +2327,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 44,
-          "uniques": 43
+          "count": 46,
+          "uniques": 45
         },
         "clones_14d": {
-          "count": 8,
-          "uniques": 8
+          "count": 10,
+          "uniques": 10
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2453,12 +2447,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 59,
-          "uniques": 50
+          "count": 61,
+          "uniques": 52
         },
         "clones_14d": {
-          "count": 15,
-          "uniques": 11
+          "count": 17,
+          "uniques": 13
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2574,12 +2568,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 23,
-          "uniques": 23
+          "count": 25,
+          "uniques": 24
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2825,8 +2819,8 @@
           "uniques": 33
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2945,8 +2939,8 @@
           "uniques": 25
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3185,8 +3179,8 @@
           "uniques": 18
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3380,8 +3374,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         19,
         15,
         0,
