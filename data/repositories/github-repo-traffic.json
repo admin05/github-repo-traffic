@@ -20,9 +20,9 @@
     "topics": [],
     "license": "MIT",
     "created_at": "2026-07-20T02:42:54Z",
-    "updated_at": "2026-10-26T01:19:53Z",
-    "pushed_at": "2026-10-26T01:19:49Z",
-    "size_kb": 655,
+    "updated_at": "2026-10-27T02:10:33Z",
+    "pushed_at": "2026-10-27T02:10:30Z",
+    "size_kb": 662,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": true,
     "has_discussions": false
   },
-  "collected_at": "2026-10-27T02:09:07Z",
+  "collected_at": "2026-10-28T02:22:41Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -818,6 +818,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 655
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 662
     }
   ],
   "languages": {
@@ -895,11 +903,11 @@
       0,
       0,
       0,
-      9,
+      10,
+      7,
       7,
       7,
       8,
-      7,
       7,
       6,
       7,
@@ -1522,6 +1530,11 @@
         "timestamp": "2026-10-25T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -2079,6 +2092,11 @@
         "timestamp": "2026-10-25T00:00:00Z",
         "count": 4,
         "uniques": 2
+      },
+      {
+        "timestamp": "2026-10-26T00:00:00Z",
+        "count": 6,
+        "uniques": 4
       }
     ],
     "popular_paths": [
@@ -2662,6 +2680,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-10-28",
+        "captured_at": "2026-10-28T02:22:41Z",
+        "items": [
+          {
+            "path": "/admin05/github-repo-traffic",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -3225,6 +3255,17 @@
       {
         "date": "2026-10-27",
         "captured_at": "2026-10-27T02:09:07Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "captured_at": "2026-10-28T02:22:41Z",
         "items": [
           {
             "referrer": "github.com",
