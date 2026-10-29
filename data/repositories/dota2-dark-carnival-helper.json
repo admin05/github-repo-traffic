@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "owner": "admin05",
+  "repository": {
+    "id": 1436825733,
+    "node_id": "R_kgDOVaQ4hQ",
+    "name": "dota2-dark-carnival-helper",
+    "full_name": "admin05/dota2-dark-carnival-helper",
+    "html_url": "https://github.com/admin05/dota2-dark-carnival-helper",
+    "description": null,
+    "homepage": null,
+    "private": false,
+    "visibility": "public",
+    "archived": false,
+    "disabled": false,
+    "fork": true,
+    "is_template": false,
+    "default_branch": "main",
+    "language": null,
+    "topics": [],
+    "license": null,
+    "created_at": "2026-10-28T08:50:09Z",
+    "updated_at": "2026-10-28T08:50:09Z",
+    "pushed_at": "2026-10-19T21:14:47Z",
+    "size_kb": 672,
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "open_issues_and_pulls": 0,
+    "has_issues": false,
+    "has_projects": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false
+  },
+  "collected_at": "2026-10-29T02:29:56Z",
+  "metadata_history": [
+    {
+      "date": "2026-10-29",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 672
+    }
+  ],
+  "languages": {
+    "HTML": 246285,
+    "JavaScript": 98140,
+    "Python": 94061,
+    "Shell": 338
+  },
+  "community": {},
+  "counts": {
+    "contributors": 1,
+    "branches": 1,
+    "tags": 0,
+    "releases": 0,
+    "open_pull_requests": 0
+  },
+  "participation": {
+    "all": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      25,
+      0
+    ],
+    "owner": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "traffic": {
+    "views": [
+      {
+        "timestamp": "2026-10-16T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-17T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-18T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-20T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-21T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "clones": [
+      {
+        "timestamp": "2026-10-16T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-17T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-18T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-19T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-20T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-21T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "popular_paths": [
+      {
+        "date": "2026-10-29",
+        "captured_at": "2026-10-29T02:29:56Z",
+        "items": []
+      }
+    ],
+    "popular_referrers": [
+      {
+        "date": "2026-10-29",
+        "captured_at": "2026-10-29T02:29:56Z",
+        "items": []
+      }
+    ]
+  },
+  "collection_errors": []
+}
