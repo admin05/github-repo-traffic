@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-10-29T02:29:56Z",
+  "collected_at": "2026-10-30T02:40:32Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -834,6 +834,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 511
+    },
+    {
+      "date": "2026-10-30",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 511
     }
   ],
   "languages": {
@@ -900,8 +908,8 @@
       0,
       0,
       7,
-      1,
-      7,
+      8,
+      0,
       0,
       0,
       0,
@@ -1552,6 +1560,11 @@
         "timestamp": "2026-10-27T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -2129,6 +2142,11 @@
         "timestamp": "2026-10-27T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-10-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -2946,6 +2964,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-10-30",
+        "captured_at": "2026-10-30T02:40:32Z",
+        "items": [
+          {
+            "path": "/admin05/music163/blob/main/wecom_notify.py",
+            "title": "/blob/main/wecom_notify.py",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -3693,6 +3723,11 @@
       {
         "date": "2026-10-29",
         "captured_at": "2026-10-29T02:29:56Z",
+        "items": []
+      },
+      {
+        "date": "2026-10-30",
+        "captured_at": "2026-10-30T02:40:32Z",
         "items": []
       }
     ]
