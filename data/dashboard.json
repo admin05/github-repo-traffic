@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-11-06T03:28:48Z",
+  "generated_at": "2026-11-07T02:54:09Z",
   "repository_count": 30,
   "repositories": [
     {
@@ -71,8 +71,8 @@
         0,
         0,
         0,
-        14,
-        18,
+        26,
+        6,
         0,
         0,
         0,
@@ -230,12 +230,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 36,
-          "uniques": 36
+          "count": 37,
+          "uniques": 37
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -480,8 +480,8 @@
         0,
         0,
         10,
-        8,
-        1,
+        9,
+        0,
         0,
         0,
         0,
@@ -517,8 +517,8 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 307,
-          "uniques": 212
+          "count": 308,
+          "uniques": 213
         },
         "clones_14d": {
           "count": 7,
@@ -596,8 +596,8 @@
         0,
         0,
         0,
-        0,
-        20,
+        1,
+        19,
         0,
         7,
         6,
@@ -608,9 +608,9 @@
         0,
         5,
         8,
-        5,
-        5,
-        13,
+        6,
+        8,
+        9,
         0,
         13,
         0,
@@ -643,8 +643,8 @@
           "uniques": 159
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -768,12 +768,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 6,
-          "uniques": 6
+          "count": 7,
+          "uniques": 7
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "first_archived_date": "2026-10-02",
         "latest_popular_paths": [],
@@ -870,8 +870,8 @@
         0,
         0,
         25,
-        0,
-        7
+        4,
+        3
       ],
       "community_health_percentage": null,
       "counts": {
@@ -1342,11 +1342,11 @@
         0,
         3,
         1,
-        3,
-        1,
+        4,
+        2,
+        2,
         4,
         3,
-        4,
         0,
         1,
         0,
@@ -1376,12 +1376,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 288,
-          "uniques": 238
+          "count": 289,
+          "uniques": 239
         },
         "clones_14d": {
-          "count": 33,
-          "uniques": 26
+          "count": 32,
+          "uniques": 25
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1409,9 +1409,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-11-05T03:34:10Z",
-      "pushed_at": "2026-11-05T03:34:06Z",
-      "size_kb": 723,
+      "updated_at": "2026-11-06T03:30:20Z",
+      "pushed_at": "2026-11-06T03:30:16Z",
+      "size_kb": 729,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1462,11 +1462,11 @@
         0,
         0,
         0,
-        12,
-        7,
-        7,
+        13,
         7,
         8,
+        7,
+        7,
         6,
         7,
         7,
@@ -1497,12 +1497,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 1006,
-          "uniques": 656
+          "count": 1020,
+          "uniques": 664
         },
         "clones_14d": {
-          "count": 92,
-          "uniques": 56
+          "count": 100,
+          "uniques": 60
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1700,12 +1700,12 @@
         0,
         0,
         3,
-        0,
         1,
         0,
         0,
-        2,
-        1,
+        0,
+        3,
+        0,
         0,
         0,
         0,
@@ -1867,8 +1867,8 @@
           "uniques": 23
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 3
+          "count": 3,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1951,8 +1951,8 @@
         0,
         0,
         0,
-        1,
-        11,
+        6,
+        6,
         0,
         0,
         0,
@@ -2097,24 +2097,37 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         "views_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "clones_all_time": {
-          "count": 35,
-          "uniques": 35
+          "count": 36,
+          "uniques": 36
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [],
-        "latest_popular_referrers": []
+        "latest_popular_paths": [
+          {
+            "path": "/admin05/music163/blob/main/wecom_notify.py",
+            "title": "/blob/main/wecom_notify.py",
+            "count": 1,
+            "uniques": 1
+          }
+        ],
+        "latest_popular_referrers": [
+          {
+            "referrer": "Baidu",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/music163.json",
       "collection_errors": []
@@ -2303,15 +2316,15 @@
         0,
         0,
         0,
-        11,
-        9,
+        15,
+        5,
         3,
         1,
         3,
         0,
         2,
-        0,
         1,
+        0,
         0,
         0,
         2,
@@ -2320,8 +2333,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -2347,12 +2360,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 152,
-          "uniques": 118
+          "count": 168,
+          "uniques": 126
         },
         "clones_14d": {
-          "count": 44,
-          "uniques": 23
+          "count": 60,
+          "uniques": 31
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2467,11 +2480,11 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 47,
-          "uniques": 46
+          "count": 50,
+          "uniques": 48
         },
         "clones_14d": {
-          "count": 3,
+          "count": 4,
           "uniques": 3
         },
         "first_archived_date": "2026-07-05",
@@ -2549,8 +2562,8 @@
         0,
         0,
         0,
-        9,
-        2,
+        11,
+        0,
         0,
         0,
         0,
@@ -2587,12 +2600,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 62,
-          "uniques": 53
+          "count": 63,
+          "uniques": 54
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2832,8 +2845,8 @@
           "uniques": 27
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 4
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3068,12 +3081,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 36,
-          "uniques": 36
+          "count": 37,
+          "uniques": 37
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3146,8 +3159,8 @@
         0,
         0,
         0,
-        0,
         4,
+        0,
         0,
         0,
         0,
@@ -3627,9 +3640,9 @@
         0,
         0,
         2,
-        7,
-        19,
-        8,
+        16,
+        18,
+        0,
         0,
         0,
         0,
