@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "owner": "admin05",
+  "repository": {
+    "id": 1454678160,
+    "node_id": "R_kgDOVrSgkA",
+    "name": "12315-enable-paste",
+    "full_name": "admin05/12315-enable-paste",
+    "html_url": "https://github.com/admin05/12315-enable-paste",
+    "description": "全国12315投诉内容允许粘贴的 Tampermonkey 用户脚本",
+    "homepage": null,
+    "private": false,
+    "visibility": "public",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "is_template": false,
+    "default_branch": "main",
+    "language": "JavaScript",
+    "topics": [],
+    "license": null,
+    "created_at": "2026-11-12T01:08:05Z",
+    "updated_at": "2026-11-12T01:08:23Z",
+    "pushed_at": "2026-11-12T01:08:19Z",
+    "size_kb": 2,
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "open_issues_and_pulls": 0,
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false
+  },
+  "collected_at": "2026-11-12T03:54:10Z",
+  "metadata_history": [
+    {
+      "date": "2026-11-12",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 2
+    }
+  ],
+  "languages": {
+    "JavaScript": 1368
+  },
+  "community": {
+    "health_percentage": 28,
+    "description": "全国12315投诉内容允许粘贴的 Tampermonkey 用户脚本",
+    "documentation": null,
+    "files": {
+      "code_of_conduct": null,
+      "code_of_conduct_file": null,
+      "contributing": null,
+      "issue_template": null,
+      "pull_request_template": null,
+      "license": null,
+      "readme": {
+        "url": "https://api.github.com/repos/admin05/12315-enable-paste/contents/README.md",
+        "html_url": "https://github.com/admin05/12315-enable-paste/blob/main/README.md"
+      }
+    },
+    "updated_at": null
+  },
+  "counts": {
+    "contributors": 1,
+    "branches": 1,
+    "tags": 0,
+    "releases": 0,
+    "open_pull_requests": 0
+  },
+  "participation": {
+    "all": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "owner": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "traffic": {
+    "views": [
+      {
+        "timestamp": "2026-10-30T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-02T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-03T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-05T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-06T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-07T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-08T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-09T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-12T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "clones": [
+      {
+        "timestamp": "2026-10-30T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-10-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-02T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-03T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-04T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-05T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-06T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-07T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-08T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-09T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-10T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-12T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      }
+    ],
+    "popular_paths": [
+      {
+        "date": "2026-11-12",
+        "captured_at": "2026-11-12T03:54:10Z",
+        "items": []
+      }
+    ],
+    "popular_referrers": [
+      {
+        "date": "2026-11-12",
+        "captured_at": "2026-11-12T03:54:10Z",
+        "items": []
+      }
+    ]
+  },
+  "collection_errors": []
+}

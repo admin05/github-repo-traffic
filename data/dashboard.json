@@ -1,9 +1,129 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-11-11T02:51:00Z",
-  "repository_count": 31,
+  "generated_at": "2026-11-12T03:54:10Z",
+  "repository_count": 33,
   "repositories": [
+    {
+      "id": 1454678160,
+      "node_id": "R_kgDOVrSgkA",
+      "name": "12315-enable-paste",
+      "full_name": "admin05/12315-enable-paste",
+      "html_url": "https://github.com/admin05/12315-enable-paste",
+      "description": "全国12315投诉内容允许粘贴的 Tampermonkey 用户脚本",
+      "homepage": null,
+      "private": false,
+      "visibility": "public",
+      "archived": false,
+      "disabled": false,
+      "fork": false,
+      "is_template": false,
+      "default_branch": "main",
+      "language": "JavaScript",
+      "topics": [],
+      "license": null,
+      "created_at": "2026-11-12T01:08:05Z",
+      "updated_at": "2026-11-12T01:08:23Z",
+      "pushed_at": "2026-11-12T01:08:19Z",
+      "size_kb": 2,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "has_issues": true,
+      "has_projects": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "languages": {
+        "JavaScript": 1368
+      },
+      "participation_52_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "community_health_percentage": 28,
+      "counts": {
+        "contributors": 1,
+        "branches": 1,
+        "tags": 0,
+        "releases": 0,
+        "open_pull_requests": 0
+      },
+      "traffic": {
+        "views_all_time": {
+          "count": 0,
+          "uniques": 0
+        },
+        "views_14d": {
+          "count": 0,
+          "uniques": 0
+        },
+        "clones_all_time": {
+          "count": 0,
+          "uniques": 0
+        },
+        "clones_14d": {
+          "count": 0,
+          "uniques": 0
+        },
+        "first_archived_date": "2026-10-30",
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
+      },
+      "data_file": "data/repositories/12315-enable-paste.json",
+      "collection_errors": []
+    },
     {
       "id": 1279682600,
       "node_id": "R_kgDOTEZoKA",
@@ -70,8 +190,8 @@
         0,
         0,
         0,
-        0,
-        32,
+        2,
+        30,
         0,
         0,
         0,
@@ -110,12 +230,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 44,
-          "uniques": 42
+          "count": 45,
+          "uniques": 43
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -230,12 +350,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 37,
-          "uniques": 37
+          "count": 38,
+          "uniques": 38
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -346,16 +466,16 @@
           "uniques": 6
         },
         "views_14d": {
-          "count": 7,
-          "uniques": 3
+          "count": 6,
+          "uniques": 2
         },
         "clones_all_time": {
-          "count": 23,
-          "uniques": 23
+          "count": 24,
+          "uniques": 24
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -479,8 +599,8 @@
         0,
         0,
         8,
-        8,
-        3,
+        10,
+        1,
         0,
         0,
         0,
@@ -599,20 +719,20 @@
         15,
         5,
         7,
-        1,
-        5,
-        1,
-        0,
-        0,
-        0,
-        5,
-        8,
-        1,
-        8,
-        14,
-        0,
         6,
+        0,
+        1,
+        0,
+        0,
+        0,
+        5,
+        8,
+        3,
         7,
+        13,
+        0,
+        13,
+        0,
         0,
         0,
         0,
@@ -639,12 +759,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 239,
-          "uniques": 159
+          "count": 241,
+          "uniques": 160
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -744,8 +864,8 @@
         0,
         0,
         0,
-        29,
-        10,
+        39,
+        0,
         0,
         0,
         0
@@ -772,8 +892,8 @@
           "uniques": 7
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-10-02",
         "latest_popular_paths": [],
@@ -870,8 +990,8 @@
         0,
         25,
         0,
-        5,
-        2
+        7,
+        0
       ],
       "community_health_percentage": null,
       "counts": {
@@ -895,8 +1015,8 @@
           "uniques": 34
         },
         "clones_14d": {
-          "count": 57,
-          "uniques": 32
+          "count": 56,
+          "uniques": 31
         },
         "first_archived_date": "2026-10-15",
         "latest_popular_paths": [],
@@ -1011,12 +1131,12 @@
           "uniques": 1
         },
         "clones_all_time": {
-          "count": 16,
-          "uniques": 16
+          "count": 18,
+          "uniques": 18
         },
         "clones_14d": {
-          "count": 0,
-          "uniques": 0
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1094,8 +1214,8 @@
         0,
         0,
         0,
-        0,
         13,
+        0,
         0,
         0,
         0,
@@ -1134,16 +1254,16 @@
           "uniques": 2
         },
         "views_14d": {
-          "count": 3,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         "clones_all_time": {
           "count": 42,
           "uniques": 39
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 4
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1283,12 +1403,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 40,
-          "uniques": 40
+          "count": 41,
+          "uniques": 41
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1364,14 +1484,14 @@
         0,
         0,
         0,
-        0,
         3,
-        2,
-        3,
-        4,
-        2,
-        4,
         1,
+        2,
+        2,
+        4,
+        3,
+        4,
+        0,
         1,
         0,
         0,
@@ -1401,12 +1521,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 306,
-          "uniques": 252
+          "count": 313,
+          "uniques": 256
         },
         "clones_14d": {
-          "count": 43,
-          "uniques": 32
+          "count": 48,
+          "uniques": 34
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1434,9 +1554,9 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
-      "updated_at": "2026-11-10T04:41:39Z",
-      "pushed_at": "2026-11-10T04:41:34Z",
-      "size_kb": 756,
+      "updated_at": "2026-11-11T03:52:24Z",
+      "pushed_at": "2026-11-11T02:52:21Z",
+      "size_kb": 763,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1486,13 +1606,13 @@
         0,
         0,
         0,
-        10,
+        11,
         7,
         7,
         7,
         8,
-        7,
         6,
+        7,
         7,
         7,
         7,
@@ -1522,12 +1642,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 1068,
-          "uniques": 690
+          "count": 1084,
+          "uniques": 698
         },
         "clones_14d": {
-          "count": 114,
-          "uniques": 65
+          "count": 126,
+          "uniques": 71
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1640,12 +1760,12 @@
           "uniques": 3
         },
         "clones_all_time": {
-          "count": 36,
-          "uniques": 35
+          "count": 37,
+          "uniques": 36
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -1659,6 +1779,131 @@
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/Herobrine-Mirror-Monster-Release.json",
+      "collection_errors": []
+    },
+    {
+      "id": 1453617687,
+      "node_id": "R_kgDOVqRyFw",
+      "name": "hghub-macos-ios-version",
+      "full_name": "admin05/hghub-macos-ios-version",
+      "html_url": "https://github.com/admin05/hghub-macos-ios-version",
+      "description": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速",
+      "homepage": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version/releases",
+      "private": false,
+      "visibility": "public",
+      "archived": false,
+      "disabled": false,
+      "fork": true,
+      "is_template": false,
+      "default_branch": "main",
+      "language": null,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-11-11T06:40:28Z",
+      "updated_at": "2026-11-11T06:40:29Z",
+      "pushed_at": "2026-11-09T22:41:00Z",
+      "size_kb": 1685,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "has_issues": false,
+      "has_projects": true,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "languages": {
+        "TypeScript": 300780,
+        "Rust": 135898,
+        "JavaScript": 31478,
+        "CSS": 27719,
+        "Python": 2018,
+        "HTML": 1522
+      },
+      "participation_52_weeks": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        62
+      ],
+      "community_health_percentage": null,
+      "counts": {
+        "contributors": 6,
+        "branches": 1,
+        "tags": 0,
+        "releases": 0,
+        "open_pull_requests": 0
+      },
+      "traffic": {
+        "views_all_time": {
+          "count": 0,
+          "uniques": 0
+        },
+        "views_14d": {
+          "count": 0,
+          "uniques": 0
+        },
+        "clones_all_time": {
+          "count": 0,
+          "uniques": 0
+        },
+        "clones_14d": {
+          "count": 0,
+          "uniques": 0
+        },
+        "first_archived_date": "2026-10-30",
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
+      },
+      "data_file": "data/repositories/hghub-macos-ios-version.json",
       "collection_errors": []
     },
     {
@@ -1736,8 +1981,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         1,
         0,
         0,
@@ -2088,8 +2333,8 @@
         0,
         0,
         0,
-        0,
-        8,
+        7,
+        1,
         7,
         0,
         0,
@@ -2130,12 +2375,12 @@
           "uniques": 3
         },
         "clones_all_time": {
-          "count": 37,
-          "uniques": 37
+          "count": 39,
+          "uniques": 38
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [
@@ -2219,8 +2464,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -2234,8 +2479,8 @@
         0,
         0,
         0,
-        1,
-        4,
+        5,
+        0,
         0,
         0,
         0,
@@ -2340,8 +2585,8 @@
         0,
         0,
         0,
-        0,
-        20,
+        1,
+        19,
         3,
         1,
         3,
@@ -2364,8 +2609,8 @@
         0,
         0,
         0,
-        0,
-        10
+        7,
+        3
       ],
       "community_health_percentage": 14,
       "counts": {
@@ -2385,12 +2630,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 189,
-          "uniques": 138
+          "count": 195,
+          "uniques": 142
         },
         "clones_14d": {
-          "count": 78,
-          "uniques": 40
+          "count": 84,
+          "uniques": 44
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2466,8 +2711,8 @@
         0,
         0,
         0,
-        2,
-        1,
+        3,
+        0,
         0,
         0,
         0,
@@ -2505,12 +2750,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 50,
-          "uniques": 48
+          "count": 51,
+          "uniques": 49
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2586,8 +2831,8 @@
         0,
         0,
         0,
-        8,
-        3,
+        9,
+        2,
         0,
         0,
         0,
@@ -2625,12 +2870,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 65,
-          "uniques": 55
+          "count": 66,
+          "uniques": 56
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3106,12 +3351,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 37,
-          "uniques": 37
+          "count": 38,
+          "uniques": 38
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3466,12 +3711,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 20,
-          "uniques": 20
+          "count": 21,
+          "uniques": 21
         },
         "clones_14d": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3664,8 +3909,8 @@
         0,
         0,
         2,
-        0,
-        26,
+        6,
+        20,
         8,
         0,
         0,
@@ -3739,9 +3984,9 @@
       "topics": [],
       "license": null,
       "created_at": "2026-11-11T01:30:31Z",
-      "updated_at": "2026-11-11T02:39:13Z",
-      "pushed_at": "2026-11-11T01:49:45Z",
-      "size_kb": 11,
+      "updated_at": "2026-11-11T09:45:27Z",
+      "pushed_at": "2026-11-11T09:06:07Z",
+      "size_kb": 15,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -3752,7 +3997,7 @@
       "has_pages": false,
       "has_discussions": false,
       "languages": {
-        "JavaScript": 23952
+        "JavaScript": 27551
       },
       "participation_52_weeks": [
         0,
@@ -3806,7 +4051,7 @@
         0,
         0,
         0,
-        0
+        9
       ],
       "community_health_percentage": 28,
       "counts": {
