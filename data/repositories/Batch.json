@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-12T03:54:10Z",
+  "collected_at": "2026-11-13T03:26:53Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -946,6 +946,14 @@
       "watchers": 1,
       "open_issues_and_pulls": 0,
       "size_kb": 18
+    },
+    {
+      "date": "2026-11-13",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "open_issues_and_pulls": 0,
+      "size_kb": 18
     }
   ],
   "languages": {
@@ -1732,6 +1740,11 @@
         "timestamp": "2026-11-10T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-11T00:00:00Z",
+        "count": 2,
+        "uniques": 1
       }
     ],
     "clones": [
@@ -2379,6 +2392,11 @@
         "timestamp": "2026-11-10T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-11-11T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -3529,6 +3547,54 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-11-13",
+        "captured_at": "2026-11-13T03:26:53Z",
+        "items": [
+          {
+            "path": "/admin05/Batch/blob/master/README.md",
+            "title": "/blob/master/README.md",
+            "count": 2,
+            "uniques": 2
+          },
+          {
+            "path": "/admin05/Batch/tree/master/FFmpeg合并视频",
+            "title": "/tree/master/FFmpeg合并视频",
+            "count": 2,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Batch",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Batch/blob/master/FFmpeg合并视频/list.txt",
+            "title": "/blob/master/FFmpeg合并视频/list.txt",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Batch/blob/master/FFmpeg合并视频/mg.bat",
+            "title": "/blob/master/FFmpeg合并视频/mg.bat",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Batch/blob/master/通过curl批量获取网页状态码.bat",
+            "title": "/blob/master/通过curl批量获取网页状态码.bat",
+            "count": 1,
+            "uniques": 1
+          },
+          {
+            "path": "/admin05/Batch/commits/master/README.md",
+            "title": "/commits/master/README.md",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -4142,6 +4208,17 @@
       {
         "date": "2026-11-12",
         "captured_at": "2026-11-12T03:54:10Z",
+        "items": [
+          {
+            "referrer": "Google",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-11-13",
+        "captured_at": "2026-11-13T03:26:53Z",
         "items": [
           {
             "referrer": "Google",
