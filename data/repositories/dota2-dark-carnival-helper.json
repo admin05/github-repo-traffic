@@ -33,7 +33,7 @@
     "has_pages": true,
     "has_discussions": false
   },
-  "collected_at": "2026-11-16T02:51:10Z",
+  "collected_at": "2026-11-17T05:07:01Z",
   "metadata_history": [
     {
       "date": "2026-10-29",
@@ -186,6 +186,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 1006
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 1006
     }
   ],
   "languages": {
@@ -251,8 +259,8 @@
       0,
       0,
       0,
-      13,
-      12,
+      25,
+      0,
       4,
       3,
       0
@@ -722,6 +730,11 @@
         "date": "2026-11-16",
         "captured_at": "2026-11-16T02:51:10Z",
         "items": []
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
+        "items": []
       }
     ],
     "popular_referrers": [
@@ -818,6 +831,11 @@
       {
         "date": "2026-11-16",
         "captured_at": "2026-11-16T02:51:10Z",
+        "items": []
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
         "items": []
       }
     ]

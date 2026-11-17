@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-16T02:51:10Z",
+  "collected_at": "2026-11-17T05:07:01Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -978,6 +978,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 511
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 511
     }
   ],
   "languages": {
@@ -1041,8 +1049,8 @@
       0,
       0,
       0,
-      7,
       8,
+      7,
       0,
       0,
       0,
@@ -3472,6 +3480,18 @@
             "uniques": 3
           }
         ]
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
+        "items": [
+          {
+            "path": "/admin05/music163/blob/main/wecom_notify.py",
+            "title": "/blob/main/wecom_notify.py",
+            "count": 3,
+            "uniques": 3
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -4363,6 +4383,17 @@
       {
         "date": "2026-11-16",
         "captured_at": "2026-11-16T02:51:10Z",
+        "items": [
+          {
+            "referrer": "Baidu",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
         "items": [
           {
             "referrer": "Baidu",

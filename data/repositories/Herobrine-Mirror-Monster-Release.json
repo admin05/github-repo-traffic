@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-16T02:51:10Z",
+  "collected_at": "2026-11-17T05:07:01Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -978,6 +978,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 78
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 78
     }
   ],
   "languages": {},
@@ -1038,8 +1046,8 @@
       0,
       0,
       0,
-      0,
-      2,
+      1,
+      1,
       0,
       0,
       0,
@@ -4426,6 +4434,18 @@
             "uniques": 8
           }
         ]
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
+        "items": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 8,
+            "uniques": 8
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -5443,6 +5463,11 @@
       {
         "date": "2026-11-16",
         "captured_at": "2026-11-16T02:51:10Z",
+        "items": []
+      },
+      {
+        "date": "2026-11-17",
+        "captured_at": "2026-11-17T05:07:01Z",
         "items": []
       }
     ]
