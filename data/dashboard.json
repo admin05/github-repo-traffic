@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "owner": "admin05",
-  "generated_at": "2026-11-22T03:16:37Z",
+  "generated_at": "2026-11-23T03:46:41Z",
   "repository_count": 34,
   "repositories": [
     {
@@ -580,8 +580,8 @@
         0,
         0,
         0,
-        10,
-        9,
+        11,
+        8,
         0,
         0,
         0,
@@ -589,8 +589,8 @@
         0,
         0,
         0,
-        3,
-        30,
+        11,
+        22,
         0,
         0,
         0,
@@ -620,12 +620,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 313,
-          "uniques": 218
+          "count": 314,
+          "uniques": 219
         },
         "clones_14d": {
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -697,10 +697,10 @@
         0,
         0,
         0,
-        14,
-        6,
-        0,
-        7,
+        15,
+        5,
+        4,
+        3,
         6,
         1,
         0,
@@ -710,8 +710,8 @@
         5,
         8,
         6,
-        8,
-        9,
+        15,
+        2,
         1,
         12,
         0,
@@ -742,12 +742,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 242,
-          "uniques": 161
+          "count": 243,
+          "uniques": 162
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 2
+          "count": 4,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -969,8 +969,8 @@
         0,
         0,
         0,
-        0,
-        25,
+        13,
+        12,
         4,
         3,
         0,
@@ -1251,31 +1251,12 @@
           "uniques": 40
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/FreeMeal",
-            "title": "Overview",
-            "count": 1,
-            "uniques": 1
-          },
-          {
-            "path": "/admin05/FreeMeal/tree/main/config",
-            "title": "/tree/main/config",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
-        "latest_popular_referrers": [
-          {
-            "referrer": "Bing",
-            "count": 1,
-            "uniques": 1
-          }
-        ]
+        "latest_popular_paths": [],
+        "latest_popular_referrers": []
       },
       "data_file": "data/repositories/FreeMeal.json",
       "collection_errors": []
@@ -1476,14 +1457,14 @@
         0,
         1,
         0,
+        1,
+        0,
         0,
         1,
         0,
         1,
-        0,
-        1,
-        1,
-        3,
+        2,
+        2,
         0
       ],
       "community_health_percentage": 28,
@@ -1504,12 +1485,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 354,
-          "uniques": 285
+          "count": 357,
+          "uniques": 287
         },
         "clones_14d": {
-          "count": 48,
-          "uniques": 33
+          "count": 51,
+          "uniques": 35
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -1538,8 +1519,8 @@
       "license": "MIT",
       "created_at": "2026-07-20T02:42:54Z",
       "updated_at": "2026-11-12T04:55:49Z",
-      "pushed_at": "2026-11-21T04:03:06Z",
-      "size_kb": 837,
+      "pushed_at": "2026-11-22T03:18:11Z",
+      "size_kb": 844,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -1588,7 +1569,7 @@
         0,
         0,
         0,
-        14,
+        15,
         7,
         8,
         7,
@@ -1625,12 +1606,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 1167,
-          "uniques": 751
+          "count": 1174,
+          "uniques": 756
         },
         "clones_14d": {
-          "count": 132,
-          "uniques": 78
+          "count": 106,
+          "uniques": 66
         },
         "first_archived_date": "2026-07-07",
         "latest_popular_paths": [],
@@ -1735,8 +1716,8 @@
       },
       "traffic": {
         "views_all_time": {
-          "count": 46,
-          "uniques": 26
+          "count": 47,
+          "uniques": 27
         },
         "views_14d": {
           "count": 9,
@@ -1755,11 +1736,17 @@
           {
             "path": "/admin05/Herobrine-Mirror-Monster-Release",
             "title": "Overview",
-            "count": 9,
-            "uniques": 9
+            "count": 10,
+            "uniques": 10
           }
         ],
-        "latest_popular_referrers": []
+        "latest_popular_referrers": [
+          {
+            "referrer": "Baidu",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       },
       "data_file": "data/repositories/Herobrine-Mirror-Monster-Release.json",
       "collection_errors": []
@@ -1853,8 +1840,8 @@
         0,
         0,
         0,
-        47,
-        30,
+        66,
+        11,
         0
       ],
       "community_health_percentage": null,
@@ -1875,12 +1862,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 7,
-          "uniques": 7
+          "count": 8,
+          "uniques": 8
         },
         "clones_14d": {
-          "count": 7,
-          "uniques": 7
+          "count": 8,
+          "uniques": 8
         },
         "first_archived_date": "2026-10-29",
         "latest_popular_paths": [],
@@ -2201,9 +2188,9 @@
         0,
         0,
         0,
-        0,
-        11,
         1,
+        11,
+        0,
         0,
         0,
         0,
@@ -2240,8 +2227,8 @@
           "uniques": 54
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "first_archived_date": "2026-08-01",
         "latest_popular_paths": [],
@@ -2362,18 +2349,11 @@
           "uniques": 41
         },
         "clones_14d": {
-          "count": 6,
-          "uniques": 5
+          "count": 5,
+          "uniques": 4
         },
         "first_archived_date": "2026-07-05",
-        "latest_popular_paths": [
-          {
-            "path": "/admin05/music163/blob/main/wecom_notify.py",
-            "title": "/blob/main/wecom_notify.py",
-            "count": 1,
-            "uniques": 1
-          }
-        ],
+        "latest_popular_paths": [],
         "latest_popular_referrers": []
       },
       "data_file": "data/repositories/music163.json",
@@ -2447,8 +2427,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -2611,8 +2591,8 @@
           "uniques": 150
         },
         "clones_14d": {
-          "count": 33,
-          "uniques": 21
+          "count": 16,
+          "uniques": 12
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -2967,12 +2947,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 83,
-          "uniques": 59
+          "count": 84,
+          "uniques": 60
         },
         "clones_14d": {
-          "count": 9,
-          "uniques": 9
+          "count": 10,
+          "uniques": 10
         },
         "first_archived_date": "2026-10-13",
         "latest_popular_paths": [],
@@ -3088,12 +3068,12 @@
           "uniques": 0
         },
         "clones_all_time": {
-          "count": 33,
-          "uniques": 30
+          "count": 34,
+          "uniques": 31
         },
         "clones_14d": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3572,8 +3552,8 @@
           "uniques": 40
         },
         "clones_14d": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3883,8 +3863,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         19,
         15,
         0,
@@ -3932,8 +3912,8 @@
           "uniques": 38
         },
         "clones_14d": {
-          "count": 4,
-          "uniques": 3
+          "count": 3,
+          "uniques": 2
         },
         "first_archived_date": "2026-07-05",
         "latest_popular_paths": [],
@@ -3962,8 +3942,8 @@
       "license": null,
       "created_at": "2026-11-11T01:30:31Z",
       "updated_at": "2026-11-11T09:45:27Z",
-      "pushed_at": "2026-11-18T02:57:07Z",
-      "size_kb": 16,
+      "pushed_at": "2026-11-23T02:23:31Z",
+      "size_kb": 17,
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -3974,7 +3954,7 @@
       "has_pages": false,
       "has_discussions": false,
       "languages": {
-        "JavaScript": 28331
+        "JavaScript": 29277
       },
       "participation_52_weeks": [
         0,
@@ -4048,12 +4028,12 @@
           "uniques": 2
         },
         "clones_all_time": {
-          "count": 192,
-          "uniques": 89
+          "count": 194,
+          "uniques": 91
         },
         "clones_14d": {
-          "count": 192,
-          "uniques": 89
+          "count": 194,
+          "uniques": 91
         },
         "first_archived_date": "2026-10-29",
         "latest_popular_paths": [
