@@ -21,8 +21,8 @@
     "license": null,
     "created_at": "2026-11-12T01:08:05Z",
     "updated_at": "2026-11-12T01:08:23Z",
-    "pushed_at": "2026-11-12T01:08:19Z",
-    "size_kb": 2,
+    "pushed_at": "2026-11-26T00:21:13Z",
+    "size_kb": 3,
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-25T05:29:01Z",
+  "collected_at": "2026-11-26T05:09:57Z",
   "metadata_history": [
     {
       "date": "2026-11-12",
@@ -146,10 +146,18 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 2
+    },
+    {
+      "date": "2026-11-26",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 3
     }
   ],
   "languages": {
-    "JavaScript": 1368
+    "JavaScript": 2672
   },
   "community": {
     "health_percentage": 28,
@@ -412,6 +420,11 @@
         "timestamp": "2026-11-23T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -539,6 +552,11 @@
         "timestamp": "2026-11-23T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-24T00:00:00Z",
+        "count": 1,
+        "uniques": 1
       }
     ],
     "popular_paths": [
@@ -681,6 +699,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-11-26",
+        "captured_at": "2026-11-26T05:09:57Z",
+        "items": [
+          {
+            "path": "/admin05/12315-enable-paste",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -806,6 +836,17 @@
       {
         "date": "2026-11-25",
         "captured_at": "2026-11-25T05:29:01Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-11-26",
+        "captured_at": "2026-11-26T05:09:57Z",
         "items": [
           {
             "referrer": "github.com",
