@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-26T05:09:57Z",
+  "collected_at": "2026-11-27T05:08:12Z",
   "metadata_history": [
     {
       "date": "2026-11-14",
@@ -138,6 +138,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 85
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 85
     }
   ],
   "languages": {
@@ -219,8 +227,8 @@
       0,
       0,
       0,
-      0,
-      14,
+      7,
+      7,
       4
     ],
     "owner": [
@@ -409,6 +417,11 @@
         "timestamp": "2026-11-24T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -541,6 +554,11 @@
         "timestamp": "2026-11-24T00:00:00Z",
         "count": 17,
         "uniques": 7
+      },
+      {
+        "timestamp": "2026-11-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -685,6 +703,18 @@
             "uniques": 1
           }
         ]
+      },
+      {
+        "date": "2026-11-27",
+        "captured_at": "2026-11-27T05:08:12Z",
+        "items": [
+          {
+            "path": "/admin05/zhixue-score-monitor",
+            "title": "Overview",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -751,6 +781,11 @@
       {
         "date": "2026-11-26",
         "captured_at": "2026-11-26T05:09:57Z",
+        "items": []
+      },
+      {
+        "date": "2026-11-27",
+        "captured_at": "2026-11-27T05:08:12Z",
         "items": []
       }
     ]

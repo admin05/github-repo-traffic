@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-26T05:09:57Z",
+  "collected_at": "2026-11-27T05:08:12Z",
   "metadata_history": [
     {
       "date": "2026-07-20",
@@ -1058,6 +1058,14 @@
       "watchers": 0,
       "open_issues_and_pulls": 0,
       "size_kb": 78
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 78
     }
   ],
   "languages": {},
@@ -1912,6 +1920,11 @@
         "timestamp": "2026-11-24T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-11-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "clones": [
@@ -2629,6 +2642,11 @@
         "timestamp": "2026-11-24T00:00:00Z",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "timestamp": "2026-11-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ],
     "popular_paths": [
@@ -4726,6 +4744,18 @@
             "uniques": 9
           }
         ]
+      },
+      {
+        "date": "2026-11-27",
+        "captured_at": "2026-11-27T05:08:12Z",
+        "items": [
+          {
+            "path": "/admin05/Herobrine-Mirror-Monster-Release",
+            "title": "Overview",
+            "count": 7,
+            "uniques": 7
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -5811,6 +5841,17 @@
       {
         "date": "2026-11-26",
         "captured_at": "2026-11-26T05:09:57Z",
+        "items": [
+          {
+            "referrer": "Baidu",
+            "count": 1,
+            "uniques": 1
+          }
+        ]
+      },
+      {
+        "date": "2026-11-27",
+        "captured_at": "2026-11-27T05:08:12Z",
         "items": [
           {
             "referrer": "Baidu",
