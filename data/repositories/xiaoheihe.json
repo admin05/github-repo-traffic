@@ -33,7 +33,7 @@
     "has_pages": false,
     "has_discussions": false
   },
-  "collected_at": "2026-11-27T05:08:12Z",
+  "collected_at": "2026-11-28T04:46:00Z",
   "metadata_history": [
     {
       "date": "2026-11-11",
@@ -165,6 +165,14 @@
     },
     {
       "date": "2026-11-27",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "open_issues_and_pulls": 0,
+      "size_kb": 17
+    },
+    {
+      "date": "2026-11-28",
       "stars": 0,
       "forks": 0,
       "watchers": 0,
@@ -760,6 +768,18 @@
             "uniques": 2
           }
         ]
+      },
+      {
+        "date": "2026-11-28",
+        "captured_at": "2026-11-28T04:46:00Z",
+        "items": [
+          {
+            "path": "/admin05/xiaoheihe",
+            "title": "Overview",
+            "count": 2,
+            "uniques": 2
+          }
+        ]
       }
     ],
     "popular_referrers": [
@@ -900,6 +920,17 @@
       {
         "date": "2026-11-27",
         "captured_at": "2026-11-27T05:08:12Z",
+        "items": [
+          {
+            "referrer": "github.com",
+            "count": 2,
+            "uniques": 2
+          }
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "captured_at": "2026-11-28T04:46:00Z",
         "items": [
           {
             "referrer": "github.com",
